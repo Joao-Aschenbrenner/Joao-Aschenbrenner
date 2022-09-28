@@ -1,6 +1,4 @@
-### Hi th
-
-**Joao-Aschenbrenner/Joao-Aschenbrenner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, Meu nome é João Aschenbrenner
 
 Here are some ideas to get you started:
 
