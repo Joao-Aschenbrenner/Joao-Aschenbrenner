@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
   <img align="center" alt="CSS" height="100" width="100" src="https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/main/devicon-master/icons/css3/css3-original.svg" />
 
-  <img align="center" alt="JavaScript" height="100" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="JavaScript" height="80" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   
 </div>
 
