@@ -18,15 +18,15 @@ Here are some ideas to get you started:
 <div style="display: inline_block">
 <br>
 
-  <img align="center" alt="JAVA" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
+  <img align="center" alt="JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
 
-  <img align="center" alt="SQL SERVER" height="40" width="70" src="https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/main/devicon-master/icons/microsoftsqlserver/microsoft-sql-server-logo-svgrepo-com.svg" />
+  <img align="center" alt="SQL SERVER" height="60" width="70" src="https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/main/devicon-master/icons/microsoftsqlserver/microsoft-sql-server-logo-svgrepo-com.svg" />
 
-  <img align="center" alt="HTML" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
-  <img align="center" alt="CSS" height="40" width="70" src="https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/main/devicon-master/icons/css3/css3-original.svg" />
+  <img align="center" alt="CSS" height="60" width="70" src="https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/main/devicon-master/icons/css3/css3-original.svg" />
 
-  <img align="center" alt="JavaScript" height="40" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   
 </div>
 
