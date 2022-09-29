@@ -29,3 +29,7 @@
 - 🌱 I’m currently learning JAVA Poo, Java Web,SQL Server and Front-End
 - 👯 I’m looking to collaborate on Projects java
 - 💬 Ask me about JAVA
+
+---
+
+ ![Snake animation](https://github.com/Joao-Aschenbrenner/João-Aschenbrenner/blob/output/github-contribution-grid-snake.svg)
