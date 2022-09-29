@@ -32,4 +32,4 @@
 
 ---
 
- ![Snake animation](https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/main/github-contribution-grid-snake.svg)
