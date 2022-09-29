@@ -1,11 +1,6 @@
 ### Olá, Meu nome é João Aschenbrenner
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Rubi Presentes LTDA
-- 🌱 I’m currently learning JAVA Poo, Java Web,SQL Server and Front-End
-- 👯 I’m looking to collaborate on Projects java
-- 💬 Ask me about JAVA
 
 
 
@@ -15,7 +10,9 @@ Here are some ideas to get you started:
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div style="display: inline_block">
+---
+
+<div style="display: inline_block" align="center">
 <br>
 
   <img align="center" alt="JAVA" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" />
@@ -31,3 +28,11 @@ Here are some ideas to get you started:
 </div>
 
 ##
+
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on Rubi Presentes LTDA
+- 🌱 I’m currently learning JAVA Poo, Java Web,SQL Server and Front-End
+- 👯 I’m looking to collaborate on Projects java
+- 💬 Ask me about JAVA
