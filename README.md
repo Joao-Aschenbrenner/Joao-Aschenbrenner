@@ -32,4 +32,4 @@
 
 ---
 
- ![Snake animation](https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/tree/main/.github/workflows)
+ ![Snake animation](https://github.com/Joao-Aschenbrenner/Joao-Aschenbrenner/blob/output/github-contribution-grid-snake.svg)
