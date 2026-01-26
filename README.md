@@ -14,7 +14,9 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-streak-stats.vercel.app/?user=Joao-Aschenbrenner&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <a href="https://github.com/Joao-Aschenbrenner">
+    <img height="160em" src="https://github-readme-streak-stats.vercel.app/?user=Joao-Aschenbrenner&theme=dracula&hide_border=false&date_format=j%5Bn%2FY%5D" alt="GitHub Streak" />
+  </a>
 </div>
 
 ---
@@ -119,9 +121,9 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
 </td>
 <td width="20%" align="right" valign="top">
 
-<img src="assets/logos/santa-casa-logo.png" alt="Santa Casa" height="35" width="auto" style="margin-bottom: 15px; display: block; opacity: 0.9;" />  
-<img src="assets/logos/rubi-logo.png" alt="Rubi Presentes" height="35" width="auto" style="margin-bottom: 15px; display: block; opacity: 0.9;" />  
-<img src="assets/logos/equipe-logo.png" alt="Equipe Informática" height="35" width="auto" style="display: block; opacity: 0.9;" />
+<img src="https://eniacsystems.com.br/arquivo/13/logo2.png" alt="Santa Casa" height="35" width="auto" style="margin-bottom: 15px; display: block; opacity: 0.9;" />  
+<img src="https://eniacsystems.com.br/arquivo/13/rubi.jpg" alt="Rubi Presentes" height="35" width="auto" style="margin-bottom: 15px; display: block; opacity: 0.9;" />  
+<img src="https://eniacsystems.com.br/arquivo/13/equipe.jpg" alt="Equipe Informática" height="35" width="auto" style="display: block; opacity: 0.9;" />
 
 </td>
 </tr>
