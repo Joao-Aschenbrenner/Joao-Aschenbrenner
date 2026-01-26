@@ -1,4 +1,4 @@
-### Olá, eu sou o João Francisco Gomes Aschenbrenner 👋
+### Olá, eu sou o João Francisco Gomes Aschenbrenner 👋✨
 
 Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Graduação em Ciência de Dados e Inteligência Artificial** e experiência nas áreas **administrativa**, **financeira** e **desenvolvimento de sistemas**.
 
@@ -14,12 +14,12 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 </div>
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=Joao-Aschenbrenner&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <img height="160em" src="https://github-readme-streak-stats.vercel.app/?user=Joao-Aschenbrenner&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
 </div>
 
 ---
 
-### Tecnologias e ferramentas
+### Tecnologias e ferramentas ⚡💻🔧
 
 <div style="display: inline_block" align="center">
   <br>
@@ -35,7 +35,7 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 
 ---
 
-### Sobre mim
+### Sobre mim ✨🌟
 
 - **Atuação atual**: experiência em **gestão financeira**, **emissão de notas fiscais**, **desenvolvimento de sistemas** e **E-commerce**.  
 - **Interesses**: desenvolvimento web, integração de sistemas, dados e automação de processos.  
@@ -43,7 +43,57 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 
 ---
 
-### Experiência profissional
+### Como desenvolvedor de sistemas 🤖💻🚀
+
+**AI-Driven Full-Stack Developer & Product Architect**
+
+Desenvolvo projetos do início ao fim utilizando **Inteligência Artificial** como ferramenta principal de desenvolvimento. Minha metodologia combina pensamento estratégico com o poder da IA para criar soluções completas e eficientes.
+
+#### 🎯 Metodologia de desenvolvimento:
+
+1. **Estruturação** 🏗️ - Penso na arquitetura e estrutura do projeto
+2. **Discussão com IA** 💬 - Discuto e valido ideias com assistentes de IA
+3. **Lógica de processos** 🧠 - Defino a lógica e fluxos dos processos
+4. **Desenvolvimento assistido** ⚡ - Desenvolvo utilizando IA como copiloto
+
+#### 💻 Linguagens e tecnologias:
+
+Utilizo qualquer linguagem que possa ser desenvolvida com IA, com preferência por:
+- **Python** 🐍 (favorita)
+- **PHP** 🐘 (favorita)
+- **JavaScript** 📜
+- **Tecnologias Web** 🌐 (HTML, CSS, frameworks, etc.)
+
+*Qualquer tecnologia que eu consiga usar com IA, eu desenvolvo!* 😊
+
+#### 🤖 Ferramentas de IA que utilizo:
+
+- **Claude IA** 🤖 - Assistente principal de desenvolvimento
+- **Deepseek** 🔍 - Para análises e otimizações
+- **Cursor** ✨ - Experimentando atualmente (IDE com IA integrada)
+
+---
+
+### Projetos e Portfólio 🚀💼
+
+Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plataforma de desenvolvimento de sistemas.
+
+#### 🌐 Site Oficial:
+**[ENIAC Systems](https://eniacsystems.com.br/)** - Portal de projetos e soluções desenvolvidas
+
+#### 📦 Projetos em desenvolvimento:
+
+Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas de gestão, armazenamento de imagens e soluções para diferentes segmentos de mercado. Todos desenvolvidos utilizando metodologia AI-Driven para garantir eficiência e qualidade.
+
+*Confira os projetos completos e demonstrações no site: [eniacsystems.com.br](https://eniacsystems.com.br/)*
+
+---
+
+### Experiência profissional 💼💼💼
+
+<table>
+<tr>
+<td width="80%">
 
 - **Santa Casa de Misericórdia de Taquarituba** – Auxiliar de Escritório II  
   - Gestão de contas bancárias da entidade.  
@@ -64,11 +114,22 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
   - Emissão de notas fiscais.  
   - Marketing digital e gerenciamento de E-commerce.  
   - Gestão de estoque e integração de sistemas ERP.  
-  - **Período**: 1 ano e 3 meses.  
+  - **Período**: 1 ano e 3 meses.
+
+</td>
+<td width="20%" align="right" valign="top">
+
+<img src="assets/logos/santa-casa-logo.png" alt="Santa Casa" height="35" width="auto" style="margin-bottom: 15px; display: block; opacity: 0.9;" />  
+<img src="assets/logos/rubi-logo.png" alt="Rubi Presentes" height="35" width="auto" style="margin-bottom: 15px; display: block; opacity: 0.9;" />  
+<img src="assets/logos/equipe-logo.png" alt="Equipe Informática" height="35" width="auto" style="display: block; opacity: 0.9;" />
+
+</td>
+</tr>
+</table>  
 
 ---
 
-### Formação acadêmica
+### Formação acadêmica 🎓📚
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas** – UNICESUMAR  
 - **Pós-Graduação em Ciência de Dados e Inteligência Artificial** – UNINTER  
@@ -76,7 +137,7 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 
 ---
 
-### Habilidades adicionais
+### Habilidades adicionais 🚀⭐
 
 - **Pacote Office** em nível intermediário.  
 - **Familiaridade com ERPs** e sistemas de gerenciamento.  
