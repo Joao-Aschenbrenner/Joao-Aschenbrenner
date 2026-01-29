@@ -14,8 +14,8 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 </div>
 
 <div align="center">
-  <a href="https://github.com/Joao-Aschenbrenner">
-    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Aschenbrenner&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img height="160em" src="https://streak-stats.demolab.com/?user=Joao-Aschenbrenner&theme=dracula&date_format=j%2Fn%5B%2FY%5D" alt="GitHub Streak" />
   </a>
 </div>
 
