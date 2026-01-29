@@ -113,7 +113,7 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
 <tr>
 <td width="80%" valign="top">
 
-- **Santa Casa de Misericórdia de Taquarituba** – Auxiliar de Escritório II  
+- **[Santa Casa de Misericórdia de Taquarituba](https://www.instagram.com/santacasadetaquarituba/)** – Auxiliar de Escritório II  
   - Gestão de contas bancárias da entidade.  
   - Baixas de entradas e saídas no ERP Pongeluppe.  
   - Execução de pagamentos em diversos bancos (BB, Caixa, Sicredi, Bradesco).  
@@ -124,14 +124,16 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
 </td>
 <td width="20%" align="center" valign="middle">
 
-<img src="https://eniacsystems.com.br/arquivo/13/logo2.png" alt="Santa Casa" height="80" style="border-radius: 10px;" />
+<a href="https://www.instagram.com/santacasadetaquarituba/">
+  <img src="https://eniacsystems.com.br/arquivo/13/logo2.png" alt="Santa Casa" height="80" style="border-radius: 10px;" />
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="80%" valign="top">
 
-- **Rubi Comércio Eletrônico** – Programador de Sistemas de Informação  
+- **[Rubi Comércio Eletrônico](https://www.instagram.com/rubipresentes/)** – Programador de Sistemas de Informação  
   - Emissão de notas fiscais (transferências, vendas, garantias, entradas etc.).  
   - Cadastro e ajustes fiscais de produtos em planilhas Excel.  
   - Desenvolvimento de sistemas e E-commerce.  
@@ -141,14 +143,16 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
 </td>
 <td width="20%" align="center" valign="middle">
 
-<img src="https://eniacsystems.com.br/arquivo/13/rubi.jpg" alt="Rubi Presentes" height="80" style="border-radius: 10px;" />
+<a href="https://www.instagram.com/rubipresentes/">
+  <img src="https://eniacsystems.com.br/arquivo/13/rubi.jpg" alt="Rubi Presentes" height="80" style="border-radius: 10px;" />
+</a>
 
 </td>
 </tr>
 <tr>
 <td width="80%" valign="top">
 
-- **Equipe Informática** – E-commerce e Marketing  
+- **[Equipe Informática](https://www.instagram.com/equipeinfomagazine/)** – E-commerce e Marketing  
   - Emissão de notas fiscais.  
   - Marketing digital e gerenciamento de E-commerce.  
   - Gestão de estoque e integração de sistemas ERP.  
@@ -157,7 +161,9 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
 </td>
 <td width="20%" align="center" valign="middle">
 
-<img src="https://eniacsystems.com.br/arquivo/13/equipe.jpg" alt="Equipe Informática" height="80" style="border-radius: 10px;" />
+<a href="https://www.instagram.com/equipeinfomagazine/">
+  <img src="https://eniacsystems.com.br/arquivo/13/equipe.jpg" alt="Equipe Informática" height="80" style="border-radius: 10px;" />
+</a>
 
 </td>
 </tr>
