@@ -15,7 +15,7 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="160em" src="https://streak-stats.demolab.com/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
   </a>
 </div>
 
@@ -31,7 +31,7 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
   <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
   <img align="center" alt="MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="SQL Server" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoft-sql-server-logo-svgrepo-com.svg" />
+  <img align="center" alt="SQL Server" height="60" width="70" src="https://raw.githubusercontent.com/Joao-Aschenbrenner/Joao-Aschenbrenner/main/devicon-master/icons/microsoftsqlserver/microsoft-sql-server-logo-svgrepo-com.svg" />
   <img align="center" alt="Photoshop" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
 </div>
 
