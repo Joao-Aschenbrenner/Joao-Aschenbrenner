@@ -111,7 +111,7 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
 
 <table>
 <tr>
-<td width="85%" valign="top">
+<td width="80%" valign="top">
 
 - **Santa Casa de Misericórdia de Taquarituba** – Auxiliar de Escritório II  
   - Gestão de contas bancárias da entidade.  
@@ -122,14 +122,14 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
   - **Período**: 1 ano e 10 meses.  
 
 </td>
-<td width="15%" align="center" valign="top">
+<td width="20%" align="center" valign="middle">
 
-<img src="https://eniacsystems.com.br/arquivo/13/logo2.png" alt="Santa Casa" height="40" width="auto" style="display: block; opacity: 0.9;" />
+<img src="https://eniacsystems.com.br/arquivo/13/logo2.png" alt="Santa Casa" height="80" style="border-radius: 10px;" />
 
 </td>
 </tr>
 <tr>
-<td width="85%" valign="top">
+<td width="80%" valign="top">
 
 - **Rubi Comércio Eletrônico** – Programador de Sistemas de Informação  
   - Emissão de notas fiscais (transferências, vendas, garantias, entradas etc.).  
@@ -139,14 +139,14 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
   - **Período**: 1 ano e 10 meses.  
 
 </td>
-<td width="15%" align="center" valign="top">
+<td width="20%" align="center" valign="middle">
 
-<img src="https://eniacsystems.com.br/arquivo/13/rubi.jpg" alt="Rubi Presentes" height="40" width="auto" style="display: block; opacity: 0.9;" />
+<img src="https://eniacsystems.com.br/arquivo/13/rubi.jpg" alt="Rubi Presentes" height="80" style="border-radius: 10px;" />
 
 </td>
 </tr>
 <tr>
-<td width="85%" valign="top">
+<td width="80%" valign="top">
 
 - **Equipe Informática** – E-commerce e Marketing  
   - Emissão de notas fiscais.  
@@ -155,9 +155,9 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
   - **Período**: 1 ano e 3 meses.
 
 </td>
-<td width="15%" align="center" valign="top">
+<td width="20%" align="center" valign="middle">
 
-<img src="https://eniacsystems.com.br/arquivo/13/equipe.jpg" alt="Equipe Informática" height="40" width="auto" style="display: block; opacity: 0.9;" />
+<img src="https://eniacsystems.com.br/arquivo/13/equipe.jpg" alt="Equipe Informática" height="80" style="border-radius: 10px;" />
 
 </td>
 </tr>
