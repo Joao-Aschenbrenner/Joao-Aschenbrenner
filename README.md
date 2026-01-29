@@ -7,16 +7,32 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
 ### Visão geral do GitHub
 
 <div align="center">
-  <a href="https://github.com/Joao-Aschenbrenner">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img height="160em" src="https://streak-stats.demolab.com?user=Joao-Aschenbrenner&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
-  </a>
+  <table border="0">
+    <tr>
+      <td>
+        <a href="https://github.com/Joao-Aschenbrenner">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Joao-Aschenbrenner">
+          <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+          <img height="180em" src="https://streak-stats.demolab.com?user=Joao-Aschenbrenner&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+          <img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Aschenbrenner&theme=dracula&area=true&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
