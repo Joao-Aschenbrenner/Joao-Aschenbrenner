@@ -119,7 +119,7 @@ Atualmente estou trabalhando em diversos projetos inovadores, incluindo sistemas
   - Execução de pagamentos em diversos bancos (BB, Caixa, Sicredi, Bradesco).  
   - Controle de contribuintes e definição de contas para pagamento de notas e boletos.  
   - Organização e gerenciamento financeiro com planilhas em Excel.  
-  - **Período**: 1 ano e 10 meses.  
+  - **Período**: 20/09/2024 – Até o presente momento.  
 
 </td>
 <td width="20%" align="center" valign="middle">
