@@ -11,12 +11,12 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
     <tr>
       <td>
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula" />
+          <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
+          <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
         </a>
       </td>
     </tr>
