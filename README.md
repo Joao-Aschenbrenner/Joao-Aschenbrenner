@@ -11,19 +11,19 @@ Sou **Tecnólogo em Análise e Desenvolvimento de Sistemas**, com **Pós-Gradua�
     <tr>
       <td>
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats-one.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula" />
+          <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
+          <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img height="180" src="https://streak-stats.demolab.com?user=Joao-Aschenbrenner&theme=dracula&locale=pt_BR" alt="GitHub Streak" />
+          <img height="180" src="https://streak-stats.demolab.com?user=Joao-Aschenbrenner&theme=dracula&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
         </a>
       </td>
       <td>
