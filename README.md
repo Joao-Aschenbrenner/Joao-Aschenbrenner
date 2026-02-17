@@ -86,9 +86,10 @@ Utilizo qualquer linguagem que possa ser desenvolvida com IA, com preferência p
 
 #### 🤖 Ferramentas de IA que utilizo:
 
-- **Claude IA** 🤖 - Assistente principal de desenvolvimento
+- **Zencoder** 🤖 - Assistente principal de desenvolvimento
 - **Deepseek** 🔍 - Para análises e otimizações
-- **Cursor** ✨ - Experimentando atualmente (IDE com IA integrada)
+- **Claud IA** 🔍 - Para análises e otimizações
+- **VSCode** ✨ - Para desenvolveimento  
 
 ---
 
