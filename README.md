@@ -89,7 +89,7 @@ Utilizo qualquer linguagem que possa ser desenvolvida com IA, com preferência p
 - **Zencoder** 🤖 - Assistente principal de desenvolvimento
 - **Deepseek** 🔍 - Para análises e otimizações
 - **Claud IA** 🔍 - Para análises e otimizações
-- **VSCode** ✨ - Para desenvolveimento  
+- **VSCode** ✨ - Para desenvolvimento  
 
 ---
 
