@@ -186,7 +186,7 @@ Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plat
 </td>
 <td width="20%" align="center" valign="middle">
 
-<!-- Logo placeholder if available, otherwise just centering -->
+  <img src="https://eniacsystems.com.br/arquivo/13/mgflogo.png" alt="MGF Automação" height="80" style="border-radius: 10px;" />
 
 </td>
 </tr>
