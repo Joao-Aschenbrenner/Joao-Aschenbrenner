@@ -15,9 +15,18 @@
           <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
         </a>
       </td>
-      <td>
-        <div align="center">
-          <img height="180" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%20(30%25)%22%2C%22SQL%20(30%25)%22%2C%22Web%20(30%25)%22%2C%22Java%20(5%25)%22%2C%22Ruby%20(5%25)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22backgroundColor%22%3A%22%231a1b27%22%2C%22layout%22%3A%7B%22padding%22%3A20%7D%2C%22legend%22%3A%7B%22position%22%3A%22left%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23ff79c6%22%2C%22fontSize%22%3A18%2C%22fontStyle%22%3A%22bold%22%2C%22padding%22%3A10%7D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" />
+      <td width="50%">
+        <div align="center" style="background-color: #1a1b27; border: 1px solid #44475a; border-radius: 10px; padding: 10px; height: 180px; display: flex; align-items: center; justify-content: space-around;">
+          <div align="left" style="flex: 1; padding-left: 10px;">
+            <img src="https://img.shields.io/badge/PHP-30%25-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/><br>
+            <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="25"/><br>
+            <img src="https://img.shields.io/badge/Web-30%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/><br>
+            <img src="https://img.shields.io/badge/Java-5%25-007396?style=for-the-badge&logo=java&logoColor=white" height="25"/><br>
+            <img src="https://img.shields.io/badge/Ruby-5%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="25"/>
+          </div>
+          <div style="flex: 1;">
+            <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%2C%22borderWidth%22%3A0%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" height="100"/>
+          </div>
         </div>
       </td>
     </tr>
