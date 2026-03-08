@@ -17,12 +17,7 @@
       </td>
       <td>
         <div align="center">
-          <b>Domínio Técnico Real</b><br><br>
-          <img src="https://img.shields.io/badge/PHP-30%25-777BB4?style=flat-square&logo=php&logoColor=white" />
-          <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/HTML/CSS/JS-30%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
-          <img src="https://img.shields.io/badge/Java-5%25-007396?style=flat-square&logo=java&logoColor=white" /><br>
-          <img src="https://img.shields.io/badge/Ruby-5%25-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+          <img height="180" src="https://quickchart.io/chart?c={type:'pie',data:{labels:['PHP (30%)','SQL (30%)','Web Stack (30%)','Java (5%)','Ruby (5%)'],datasets:[{data:[30,30,30,5,5],backgroundColor:['%23777BB4','%234479A1','%23E34F26','%23007396','%23CC342D']}]},options:{legend:{labels:{fontColor:'%23bd93f9',fontSize:10}},plugins:{datalabels:{display:false}}}}" />
         </div>
       </td>
     </tr>
