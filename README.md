@@ -15,21 +15,8 @@
           <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <table border="0" cellspacing="0" cellpadding="0" width="495" height="180" bgcolor="#1a1b27" style="border-radius: 10px;">
-          <tr>
-            <td bgcolor="#1a1b27" align="left" valign="middle" style="padding: 15px;">
-              <img src="https://img.shields.io/badge/PHP-30%25-777BB4?style=for-the-badge&logo=php&logoColor=white" height="28"/><br>
-              <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="28"/><br>
-              <img src="https://img.shields.io/badge/Web-30%25-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="28"/><br>
-              <img src="https://img.shields.io/badge/Java-5%25-007396?style=for-the-badge&logo=java&logoColor=white" height="28"/><br>
-              <img src="https://img.shields.io/badge/Ruby-5%25-CC342D?style=for-the-badge&logo=ruby&logoColor=white" height="28"/>
-            </td>
-            <td bgcolor="#1a1b27" align="center" valign="middle" width="160">
-              <img src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%231a1b27%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" height="90"/>
-            </td>
-          </tr>
-        </table>
+      <td align="center" valign="middle">
+        <img height="180" src="https://quickchart.io/chart?bkg=%231e1f2e&w=420&h=180&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%2030%25%22%2C%22SQL%2030%25%22%2C%22Web%2030%25%22%2C%22Java%205%25%22%2C%22Ruby%205%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%231e1f2e%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23f8f8f2%22%2C%22fontSize%22%3A13%2C%22padding%22%3A12%7D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" />
       </td>
     </tr>
     <tr>
@@ -153,7 +140,7 @@ Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plat
   - Cadastrado como Digitador nos sistemas CAIXA, Banco do Brasil, Bradesco e Sicredi.
   - Uso do ERP Pongeluppe para cadastro e baixa de NF-e e lançamentos financeiros.
   - Responsável exclusivo pelo controle de entrada e saída de notas fiscais no escritório da Administração.
-  - **Período**: 20/09/2024 – Até o presente momento.
+  - **Período**: setembro de 2024 – Presente (1 ano e 7 meses).
 
 </td>
 <td width="20%" align="center" valign="middle">
