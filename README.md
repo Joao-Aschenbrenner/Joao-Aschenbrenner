@@ -17,7 +17,7 @@
       </td>
       <td>
         <div align="center">
-          <img height="180" src="https://quickchart.io/chart?c={type:'pie',data:{labels:['PHP (30%)','SQL (30%)','Web Stack (30%)','Java (5%)','Ruby (5%)'],datasets:[{data:[30,30,30,5,5],backgroundColor:['%23777BB4','%234479A1','%23E34F26','%23007396','%23CC342D']}]},options:{legend:{labels:{fontColor:'%23bd93f9',fontSize:10}},plugins:{datalabels:{display:false}}}}" />
+          <img height="180" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%20(30%25)%22%2C%22SQL%20(30%25)%22%2C%22Web%20(30%25)%22%2C%22Java%20(5%25)%22%2C%22Ruby%20(5%25)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23bd93f9%22%7D%7D%7D%7D" />
         </div>
       </td>
     </tr>
