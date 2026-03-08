@@ -16,20 +16,7 @@
         </a>
       </td>
       <td align="center" valign="middle">
-        <table border="1" cellspacing="0" cellpadding="0" width="440" height="180" bgcolor="#1e1f2e" style="border-collapse: collapse; border: 1px solid #44475a; border-radius: 10px;">
-          <tr>
-            <td align="center" valign="middle" width="180" style="border: none;">
-              <img height="110" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%231e1f2e%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Afalse%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" />
-            </td>
-            <td align="left" valign="middle" style="border: none; padding-left: 10px;">
-              <img src="https://img.shields.io/badge/PHP-30%25-777BB4?style=flat-square&logo=php&logoColor=white" /><br>
-              <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
-              <img src="https://img.shields.io/badge/Web-30%25-E34F26?style=flat-square&logo=html5&logoColor=white" /><br>
-              <img src="https://img.shields.io/badge/Java-5%25-007396?style=flat-square&logo=java&logoColor=white" /><br>
-              <img src="https://img.shields.io/badge/Ruby-5%25-CC342D?style=flat-square&logo=ruby&logoColor=white" />
-            </td>
-          </tr>
-        </table>
+        <img height="180" src="https://quickchart.io/chart?bkg=%231e1f2e&w=420&h=180&c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%2030%25%22%2C%22SQL%2030%25%22%2C%22Web%2030%25%22%2C%22Java%205%25%22%2C%22Ruby%205%25%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%2C%22borderWidth%22%3A2%2C%22borderColor%22%3A%22%231e1f2e%22%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22display%22%3Atrue%2C%22position%22%3A%22right%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23f8f8f2%22%2C%22fontSize%22%3A13%2C%22padding%22%3A12%7D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" />
       </td>
     </tr>
     <tr>
