@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="200">
+  <!-- Background with rounded border -->
+  <rect width="440" height="200" rx="14" ry="14" fill="#1e1f2e" stroke="rgba(255,255,255,0.55)" stroke-width="2"/>
+
+  <!-- Pie slices -->
+  <path d="M100,100 L100.00,22.00 A78,78 0 0,1 174.18,124.10 Z" fill="#777BB4" stroke="#1e1f2e" stroke-width="2"/><path d="M100,100 L174.18,124.10 A78,78 0 0,1 54.15,163.10 Z" fill="#4479A1" stroke="#1e1f2e" stroke-width="2"/><path d="M100,100 L54.15,163.10 A78,78 0 0,1 54.15,36.90 Z" fill="#E34F26" stroke="#1e1f2e" stroke-width="2"/><path d="M100,100 L54.15,36.90 A78,78 0 0,1 75.90,25.82 Z" fill="#00B4D8" stroke="#1e1f2e" stroke-width="2"/><path d="M100,100 L75.90,25.82 A78,78 0 0,1 100.00,22.00 Z" fill="#CC342D" stroke="#1e1f2e" stroke-width="2"/>
+
+  <!-- Center hole (donut) -->
+  <circle cx="100" cy="100" r="28" fill="#1e1f2e"/>
+  <text x="100" y="105" font-size="11" fill="#f8f8f2" text-anchor="middle" font-family="monospace">Langs</text>
+
+  <!-- Legend -->
+  <ellipse cx="209" cy="31" rx="9" ry="6" fill="#777BB4"/><text x="209" y="35" font-size="7" fill="white" text-anchor="middle" font-weight="bold">PHP</text><text x="224" y="35" font-size="13" fill="#f8f8f2" font-family="monospace">PHP <tspan fill="#777BB4" font-weight="bold">30%</tspan></text><rect x="201" y="59" width="16" height="12" rx="3" fill="#4479A1"/><text x="209" y="69" font-size="6" fill="white" text-anchor="middle" font-weight="bold">SQL</text><text x="224" y="69" font-size="13" fill="#f8f8f2" font-family="monospace">SQL <tspan fill="#4479A1" font-weight="bold">30%</tspan></text><polygon points="209,90 218,108 200,108" fill="#E34F26"/><text x="209" y="105" font-size="5" fill="white" text-anchor="middle" font-weight="bold">HTML</text><text x="224" y="103" font-size="13" fill="#f8f8f2" font-family="monospace">Web <tspan fill="#E34F26" font-weight="bold">30%</tspan></text><rect x="200" y="124" width="18" height="18" rx="3" fill="#00B4D8"/><text x="209" y="137" font-size="7" fill="white" text-anchor="middle" font-weight="bold">☕</text><text x="224" y="137" font-size="13" fill="#f8f8f2" font-family="monospace">Java <tspan fill="#00B4D8" font-weight="bold">5%</tspan></text><polygon points="209,158 218,167 209,176 200,167" fill="#CC342D"/><text x="209" y="171" font-size="6" fill="white" text-anchor="middle" font-weight="bold">Rb</text><text x="224" y="171" font-size="13" fill="#f8f8f2" font-family="monospace">Ruby <tspan fill="#CC342D" font-weight="bold">5%</tspan></text>
+</svg>
