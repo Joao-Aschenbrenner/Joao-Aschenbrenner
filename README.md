@@ -12,22 +12,22 @@
     <tr>
       <td>
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
+          <img width="420" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
         </a>
       </td>
       <td align="center" valign="middle">
-        <img height="180" src="./langs-chart.svg" />
+        <img width="420" height="180" src="./langs-chart.svg" />
       </td>
     </tr>
     <tr>
       <td>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img height="180" src="https://github-readme-streak-stats-sigma.vercel.app/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
+          <img width="420" height="180" src="https://github-readme-streak-stats-sigma.vercel.app/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
         </a>
       </td>
       <td>
         <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-          <img height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Aschenbrenner&theme=dracula&area=true&hide_border=true" />
+          <img width="420" height="180" src="https://github-readme-activity-graph.vercel.app/graph?username=Joao-Aschenbrenner&theme=dracula&area=true&hide_border=true" />
         </a>
       </td>
     </tr>
