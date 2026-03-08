@@ -1,46 +1,58 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="180">
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .main-content {
+      animation: fadeIn 0.8s ease-out forwards;
+    }
+  </style>
+
   <!-- Background with rounded border -->
   <rect width="420" height="180" rx="10" ry="10" fill="#1a1b27" stroke="#44475a" stroke-width="1"/>
 
-  <!-- Pie slices (Center: 90,90 | Radius: 70) -->
-  <path d="M90,90 L90,20 A70,70 0 0,1 156.57,111.63 Z" fill="#777BB4" stroke="#1a1b27" stroke-width="1.5"/>
-  <path d="M90,90 L156.57,111.63 A70,70 0 0,1 48.86,146.63 Z" fill="#4479A1" stroke="#1a1b27" stroke-width="1.5"/>
-  <path d="M90,90 L48.86,146.63 A70,70 0 0,1 48.86,33.37 Z" fill="#E34F26" stroke="#1a1b27" stroke-width="1.5"/>
-  <path d="M90,90 L48.86,33.37 A70,70 0 0,1 68.37,23.43 Z" fill="#00B4D8" stroke="#1a1b27" stroke-width="1.5"/>
-  <path d="M90,90 L68.37,23.43 A70,70 0 0,1 90,20 Z" fill="#CC342D" stroke="#1a1b27" stroke-width="1.5"/>
+  <g class="main-content">
+    <!-- Pie slices (Center: 90,90 | Radius: 70) -->
+    <path d="M90,90 L90,20 A70,70 0 0,1 156.57,111.63 Z" fill="#777BB4" stroke="#1a1b27" stroke-width="1.5"/>
+    <path d="M90,90 L156.57,111.63 A70,70 0 0,1 48.86,146.63 Z" fill="#4479A1" stroke="#1a1b27" stroke-width="1.5"/>
+    <path d="M90,90 L48.86,146.63 A70,70 0 0,1 48.86,33.37 Z" fill="#E34F26" stroke="#1a1b27" stroke-width="1.5"/>
+    <path d="M90,90 L48.86,33.37 A70,70 0 0,1 68.37,23.43 Z" fill="#00B4D8" stroke="#1a1b27" stroke-width="1.5"/>
+    <path d="M90,90 L68.37,23.43 A70,70 0 0,1 90,20 Z" fill="#CC342D" stroke="#1a1b27" stroke-width="1.5"/>
 
-  <!-- Center hole (donut) -->
-  <circle cx="90" cy="90" r="24" fill="#1a1b27"/>
-  <text x="90" y="94" font-size="10" fill="#f8f8f2" text-anchor="middle" font-family="monospace">Langs</text>
+    <!-- Center hole (donut) -->
+    <circle cx="90" cy="90" r="24" fill="#1a1b27"/>
+    <text x="90" y="94" font-size="10" fill="#f8f8f2" text-anchor="middle" font-family="monospace">Langs</text>
 
-  <!-- Legend (x: 190) -->
-  <g transform="translate(190, 25)">
-    <!-- PHP -->
-    <ellipse cx="10" cy="5" rx="8" ry="6" fill="#777BB4"/><text x="10" y="8" font-size="6" fill="white" text-anchor="middle" font-weight="bold">PHP</text>
-    <text x="25" y="9" font-size="12" fill="#f8f8f2" font-family="monospace">PHP <tspan fill="#777BB4" font-weight="bold">30%</tspan></text>
-    
-    <!-- SQL -->
-    <g transform="translate(0, 30)">
-      <rect x="2" y="0" width="16" height="12" rx="3" fill="#4479A1"/><text x="10" y="9" font-size="6" fill="white" text-anchor="middle" font-weight="bold">SQL</text>
-      <text x="25" y="11" font-size="12" fill="#f8f8f2" font-family="monospace">SQL <tspan fill="#4479A1" font-weight="bold">30%</tspan></text>
-    </g>
+    <!-- Legend (x: 190) -->
+    <g transform="translate(190, 25)">
+      <!-- PHP -->
+      <ellipse cx="10" cy="5" rx="8" ry="6" fill="#777BB4"/><text x="10" y="8" font-size="6" fill="white" text-anchor="middle" font-weight="bold">PHP</text>
+      <text x="25" y="9" font-size="12" fill="#f8f8f2" font-family="monospace">PHP <tspan fill="#777BB4" font-weight="bold">30%</tspan></text>
+      
+      <!-- SQL -->
+      <g transform="translate(0, 30)">
+        <rect x="2" y="0" width="16" height="12" rx="3" fill="#4479A1"/><text x="10" y="9" font-size="6" fill="white" text-anchor="middle" font-weight="bold">SQL</text>
+        <text x="25" y="11" font-size="12" fill="#f8f8f2" font-family="monospace">SQL <tspan fill="#4479A1" font-weight="bold">30%</tspan></text>
+      </g>
 
-    <!-- Web -->
-    <g transform="translate(0, 60)">
-      <polygon points="10,0 18,12 2,12" fill="#E34F26"/><text x="10" y="10" font-size="5" fill="white" text-anchor="middle" font-weight="bold">HTML</text>
-      <text x="25" y="11" font-size="12" fill="#f8f8f2" font-family="monospace">Web <tspan fill="#E34F26" font-weight="bold">30%</tspan></text>
-    </g>
+      <!-- Web -->
+      <g transform="translate(0, 60)">
+        <polygon points="10,0 18,12 2,12" fill="#E34F26"/><text x="10" y="10" font-size="5" fill="white" text-anchor="middle" font-weight="bold">HTML</text>
+        <text x="25" y="11" font-size="12" fill="#f8f8f2" font-family="monospace">Web <tspan fill="#E34F26" font-weight="bold">30%</tspan></text>
+      </g>
 
-    <!-- Java -->
-    <g transform="translate(0, 90)">
-      <rect x="2" y="0" width="16" height="16" rx="3" fill="#00B4D8"/><text x="10" y="12" font-size="8" fill="white" text-anchor="middle" font-weight="bold">☕</text>
-      <text x="25" y="13" font-size="12" fill="#f8f8f2" font-family="monospace">Java <tspan fill="#00B4D8" font-weight="bold">5%</tspan></text>
-    </g>
+      <!-- Java -->
+      <g transform="translate(0, 90)">
+        <rect x="2" y="0" width="16" height="16" rx="3" fill="#00B4D8"/><text x="10" y="12" font-size="8" fill="white" text-anchor="middle" font-weight="bold">☕</text>
+        <text x="25" y="13" font-size="12" fill="#f8f8f2" font-family="monospace">Java <tspan fill="#00B4D8" font-weight="bold">5%</tspan></text>
+      </g>
 
-    <!-- Ruby -->
-    <g transform="translate(0, 120)">
-      <polygon points="10,0 18,8 10,16 2,8" fill="#CC342D"/><text x="10" y="11" font-size="6" fill="white" text-anchor="middle" font-weight="bold">Rb</text>
-      <text x="25" y="13" font-size="12" fill="#f8f8f2" font-family="monospace">Ruby <tspan fill="#CC342D" font-weight="bold">5%</tspan></text>
+      <!-- Ruby -->
+      <g transform="translate(0, 120)">
+        <polygon points="10,0 18,8 10,16 2,8" fill="#CC342D"/><text x="10" y="11" font-size="6" fill="white" text-anchor="middle" font-weight="bold">Rb</text>
+        <text x="25" y="13" font-size="12" fill="#f8f8f2" font-family="monospace">Ruby <tspan fill="#CC342D" font-weight="bold">5%</tspan></text>
+      </g>
     </g>
   </g>
 </svg>
