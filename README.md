@@ -17,7 +17,7 @@
       </td>
       <td>
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula" />
+          <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula&include_all_commits=true" />
         </a>
       </td>
     </tr>
