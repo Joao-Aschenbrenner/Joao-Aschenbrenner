@@ -175,7 +175,7 @@ Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plat
 <tr>
 <td width="80%" valign="top">
 
-- **MGF Automação Comercial** – Suporte e Marketing Digital
+- **[MGF Automação Comercial](https://www.mgfautomacao.com.br/)** – Suporte e Marketing Digital
   - Reestruturação completa do site da empresa.
   - Configuração de Google Ads e Google Meu Negócio.
   - Instalação em campo de balanças, estruturas de rede e caixas de automação comercial.
@@ -186,7 +186,9 @@ Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plat
 </td>
 <td width="20%" align="center" valign="middle">
 
+<a href="https://www.mgfautomacao.com.br/">
   <img src="https://eniacsystems.com.br/arquivo/13/mgflogo.png" alt="MGF Automação" height="80" style="border-radius: 10px;" />
+</a>
 
 </td>
 </tr>
