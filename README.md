@@ -1,7 +1,7 @@
 ### Olá, eu sou o João Francisco Gomes Aschenbrenner 👋✨
 
 **Backend Engineer | Arquitetura de Sistemas · Integrações ERP · AI-Driven Development**  
-**PHP · Laravel · Java (Spring)**
+**PHP · Laravel · Ruby (Rails) · Java (Spring)**
 
 ---
 
@@ -43,22 +43,22 @@
 <div style="display: inline_block" align="center">
   <br>
   
-  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
   <img align="center" alt="PHP" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="center" alt="Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+  <img align="center" alt="Laravel" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" />
+  <img align="center" alt="Ruby" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" />
+  <img align="center" alt="Rails" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-plain-wordmark.svg" />
   <img align="center" alt="Java" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Node.js" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="MySQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="SQL Server" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
   <img align="center" alt="Git" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-  <img align="center" alt="Photoshop" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="JavaScript" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="HTML" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 </div>
 
 <br>
 
-**Stack:** PHP · Laravel · Java (Spring) · MySQL · SQL Server · JavaScript · Node.js · REST API · Git · HTML · CSS
+**Stack:** PHP · Laravel · Ruby (Rails) · Java (Spring) · MySQL · SQL Server · JavaScript · REST API · Git · HTML · CSS
 
 ---
 
@@ -66,7 +66,7 @@
 
 > Me formei em Análise e Desenvolvimento de Sistemas em 2022 e sigo uma convicção simples: **a melhor tecnologia é a que resolve problemas reais no mundo real.**
 >
-> Sou Desenvolvedor Full-Stack com foco em **backend, arquitetura de sistemas e integrações**, trabalhando com tecnologias consolidadas de mercado.
+> Sou Desenvolvedor Backend com foco em **arquitetura de sistemas e integrações**, utilizando exclusivamente tecnologias consolidadas de mercado para garantir robustez e previsibilidade.
 >
 > Criei o **ENIAC** — *Engineering, Networks, Intelligence, Architecture & Code* — um laboratório de engenharia de software onde desenvolvo e aplico uma metodologia prática de desenvolvimento **AI-Driven**, focada em previsibilidade e arquitetura.
 >
@@ -88,7 +88,7 @@
 | `master-rules` | Regras fundamentais de engenharia e segurança |
 | `hosting-environments` | Arquitetura de infraestrutura |
 | `security-audit` | Auditoria de segurança e qualidade |
-| `coding-standards` | Padrões de codificação (PSR-12, Airbnb, PEP 8...) |
+| `coding-standards` | Padrões de codificação (PSR-12, Airbnb, PEP 8, Ruby Style...) |
 | `folder-structure` | Organização arquitetural |
 | `workflow` | Fluxo de desenvolvimento |
 | `security-extras` | Camadas adicionais de segurança |
