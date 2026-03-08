@@ -142,7 +142,7 @@ Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plat
   - Cadastrado como Digitador nos sistemas CAIXA, Banco do Brasil, Bradesco e Sicredi.
   - Uso do ERP Pongeluppe para cadastro e baixa de NF-e e lançamentos financeiros.
   - Responsável exclusivo pelo controle de entrada e saída de notas fiscais no escritório da Administração.
-  - **Período**: setembro de 2024 – Presente (1 ano e 7 meses).
+  - **Período**: 20/09/2024 – Até o presente momento.
 
 </td>
 <td width="20%" align="center" valign="middle">
@@ -181,7 +181,7 @@ Desenvolvo e mantenho vários projetos através da **ENIAC Systems**, minha plat
   - Instalação em campo de balanças, estruturas de rede e caixas de automação comercial.
   - Backup automatizado em nuvem com MEGA + agendamento via Windows.
   - Operações com SQL Server: backups, atualizações e manutenções do sistema de automação.
-  - **Período**: março de 2022 – agosto de 2022 (6 meses).
+  - **Período**: 6 meses.
 
 </td>
 <td width="20%" align="center" valign="middle">
