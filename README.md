@@ -16,7 +16,7 @@
         </a>
       </td>
       <td align="center" valign="middle">
-        <img height="200" src="./langs-chart.svg" />
+        <img height="180" src="./langs-chart.svg" />
       </td>
     </tr>
     <tr>
