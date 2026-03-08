@@ -17,7 +17,7 @@
       </td>
       <td>
         <div align="center">
-          <img height="180" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%20(30%25)%22%2C%22SQL%20(30%25)%22%2C%22Web%20(30%25)%22%2C%22Java%20(5%25)%22%2C%22Ruby%20(5%25)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22labels%22%3A%7B%22fontColor%22%3A%22%23bd93f9%22%7D%7D%7D%7D" />
+          <img height="180" src="https://quickchart.io/chart?c=%7B%22type%22%3A%22pie%22%2C%22data%22%3A%7B%22labels%22%3A%5B%22PHP%20(30%25)%22%2C%22SQL%20(30%25)%22%2C%22Web%20(30%25)%22%2C%22Java%20(5%25)%22%2C%22Ruby%20(5%25)%22%5D%2C%22datasets%22%3A%5B%7B%22data%22%3A%5B30%2C30%2C30%2C5%2C5%5D%2C%22backgroundColor%22%3A%5B%22%23777BB4%22%2C%22%234479A1%22%2C%22%23E34F26%22%2C%22%23007396%22%2C%22%23CC342D%22%5D%7D%5D%7D%2C%22options%22%3A%7B%22legend%22%3A%7B%22position%22%3A%22left%22%2C%22labels%22%3A%7B%22fontColor%22%3A%22%23ff79c6%22%2C%22fontSize%22%3A11%2C%22fontStyle%22%3A%22bold%22%7D%7D%2C%22plugins%22%3A%7B%22datalabels%22%3A%7B%22display%22%3Afalse%7D%7D%7D%7D" />
         </div>
       </td>
     </tr>
