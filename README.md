@@ -16,9 +16,14 @@
         </a>
       </td>
       <td>
-        <a href="https://github.com/Joao-Aschenbrenner">
-          <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&langs_count=7&theme=dracula&include_all_commits=true&count_private=true&hide=css,html" />
-        </a>
+        <div align="center">
+          <b>Domínio Técnico Real</b><br><br>
+          <img src="https://img.shields.io/badge/PHP-30%25-777BB4?style=flat-square&logo=php&logoColor=white" />
+          <img src="https://img.shields.io/badge/SQL-30%25-4479A1?style=flat-square&logo=mysql&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/HTML/CSS/JS-30%25-E34F26?style=flat-square&logo=html5&logoColor=white" />
+          <img src="https://img.shields.io/badge/Java-5%25-007396?style=flat-square&logo=java&logoColor=white" /><br>
+          <img src="https://img.shields.io/badge/Ruby-5%25-CC342D?style=flat-square&logo=ruby&logoColor=white" />
+        </div>
       </td>
     </tr>
     <tr>
