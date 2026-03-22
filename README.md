@@ -1,6 +1,6 @@
 # João Francisco Gomes Aschenbrenner
 
-**Backend Engineer | Arquitetura de Sistemas | Integrações ERP | AI-Driven Development**
+**AI-Driven Backend Engineer | Building frameworks that enforce standards on AI-generated code | Systems Analysis • ERP Integrations • PHP/Laravel/Java • Automation**
 
 Construo sistemas para operações reais, com foco em previsibilidade, segurança e arquitetura limpa.
 
@@ -88,30 +88,13 @@ Construo sistemas para operações reais, com foco em previsibilidade, seguranç
 - **ENIAC** (*Engineering, Networks, Intelligence, Architecture & Code*) é meu laboratório de engenharia de software.
 - Desenvolvo projetos próprios e aplico uma metodologia **AI-Driven** estruturada em documentação técnica.
 - Objetivo: tornar o desenvolvimento mais **estruturado, previsível e auditável**, mantendo qualidade, segurança e clareza arquitetural.
+- O detalhamento completo da metodologia está no conteúdo fixado abaixo.
 
-### Estrutura da metodologia (arquivos de regras)
-
-| Documento | Finalidade |
-|---|---|
-| `master-rules` | Regras fundamentais de engenharia e segurança |
-| `hosting-environments` | Arquitetura de infraestrutura |
-| `security-audit` | Auditoria de segurança e qualidade |
-| `coding-standards` | Padrões de codificação (PSR-12, Airbnb, PEP 8 e padrões por linguagem) |
-| `folder-structure` | Organização arquitetural |
-| `workflow` | Fluxo de desenvolvimento |
-| `security-extras` | Camadas adicionais de segurança |
-| `akita-lessons` | Princípios práticos de engenharia |
-| `testing-strategy` | Estratégia de testes |
-| `local-environment` | Ambiente local automatizado |
-| `ci-cd-pipeline` | Integração e deploy contínuos |
-| `monitoring-observability` | Monitoramento em produção |
-| `legal-docs` | Conformidade legal e LGPD |
-
-### Ferramentas de IA que utilizo
-- **Zencoder** — Assistente principal com regras de engenharia customizadas (ENIAC rules).
-- **Deepseek** — Análises e otimizações.
-- **Claude (Anthropic)** — Análises, arquitetura e otimizações.
-- **VSCode** — Ambiente de desenvolvimento.
+### Ferramentas
+- Codex
+- Claude
+- Zencoder
+- GitHub Copilot
 
 ---
 
@@ -149,6 +132,13 @@ Todos os projetos seguem a metodologia ENIAC AI-Driven com foco em segurança, a
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white)
 
+### Ferramentas
+
+![Codex](https://img.shields.io/badge/Codex-Agent-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge)
+![Zencoder](https://img.shields.io/badge/Zencoder-AI_Assistant-1F2937?style=for-the-badge)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+
 **Stack atual:** PHP, Laravel, Python, MySQL, SQL Server, JavaScript, REST API, Git, HTML, CSS.  
 **Evolução ativa:** Java e Spring (com projeto próprio e certificações).
 
@@ -164,6 +154,13 @@ Todos os projetos seguem a metodologia ENIAC AI-Driven com foco em segurança, a
 
 ## Habilidades Adicionais
 
+### Agentes de IA
+- Claude
+- Codex
+- Zencoder
+- GitHub Copilot
+
+### Competências
 - **Integrações de API REST** (Bling, AnyMarket, Mercado Livre, Magalu, Shopee)
 - **Arquitetura de sistemas e documentação técnica**
 - **Conformidade LGPD e segurança de aplicações**
