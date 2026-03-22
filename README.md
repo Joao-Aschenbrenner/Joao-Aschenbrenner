@@ -90,12 +90,6 @@ Construo sistemas para operações reais, com foco em previsibilidade, seguranç
 - Objetivo: tornar o desenvolvimento mais **estruturado, previsível e auditável**, mantendo qualidade, segurança e clareza arquitetural.
 - O detalhamento completo da metodologia está no conteúdo fixado abaixo.
 
-### Ferramentas
-- Codex
-- Claude
-- Zencoder
-- GitHub Copilot
-
 ---
 
 ## Projects
@@ -134,10 +128,12 @@ Todos os projetos seguem a metodologia ENIAC AI-Driven com foco em segurança, a
 
 ### Ferramentas
 
-![Codex](https://img.shields.io/badge/Codex-Agent-10A37F?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-D97757?style=for-the-badge)
-![Zencoder](https://img.shields.io/badge/Zencoder-AI_Assistant-1F2937?style=for-the-badge)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-Research-00A8E8?style=for-the-badge)
+![Grok](https://img.shields.io/badge/Grok-xAI-111111?style=for-the-badge)
+![Deepseek](https://img.shields.io/badge/Deepseek-Refinement-1F6FEB?style=for-the-badge)
+![GPT](https://img.shields.io/badge/GPT-OpenAI-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-Coding_Agent-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Final_Review-D97757?style=for-the-badge)
 
 **Stack atual:** PHP, Laravel, Python, MySQL, SQL Server, JavaScript, REST API, Git, HTML, CSS.  
 **Evolução ativa:** Java e Spring (com projeto próprio e certificações).
@@ -155,10 +151,11 @@ Todos os projetos seguem a metodologia ENIAC AI-Driven com foco em segurança, a
 ## Habilidades Adicionais
 
 ### Agentes de IA
-- Claude
-- Codex
-- Zencoder
-- GitHub Copilot
+- **Qwen** — pesquisa inicial.
+- **Grok** — opinião e pesquisa complementar.
+- **Deepseek** — pesquisa e refinamento técnico.
+- **GPT + Codex** — pesquisa, refinamento e implementação.
+- **Claude** — consolidação final, decisão técnica e criação de scripts para novos projetos e atualizações.
 
 ### Competências
 - **Integrações de API REST** (Bling, AnyMarket, Mercado Livre, Magalu, Shopee)
