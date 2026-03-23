@@ -1,6 +1,6 @@
 # João Francisco Gomes Aschenbrenner
 
-**AI-Driven Backend Engineer | Building frameworks that enforce standards on AI-generated code | Systems Analysis • ERP Integrations • PHP/Laravel/Java • Automation**
+**AI-Driven Software Engineer | Building Code Validation & Quality Systems with ENIAC Sentinel | Architecture • Backend • Automation | PHP • Laravel • Java**
 
 Construo sistemas para operações reais, com foco em previsibilidade, segurança e arquitetura limpa.
 
@@ -173,5 +173,6 @@ Todos os projetos seguem a metodologia ENIAC AI-Driven com foco em segurança, a
 
 ## Contact
 
+- LinkedIn: [joão-aschenbrenner](https://www.linkedin.com/in/jo%C3%A3o-aschenbrenner-545a62207/)
 - GitHub: [github.com/Joao-Aschenbrenner](https://github.com/Joao-Aschenbrenner)
 - Portfólio/Projetos: [eniacsystems.com.br](https://eniacsystems.com.br/)
