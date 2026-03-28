@@ -1,26 +1,56 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="420" height="180" viewBox="0 0 420 180" role="img" aria-label="Current Language Mix">
+  <defs>
+    <style>
+      .fade-in {
+        opacity: 0;
+        animation: fadeIn 800ms ease-out forwards;
+      }
+      .pulse {
+        animation: pulse 2.6s ease-in-out infinite;
+      }
+      @keyframes fadeIn {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      @keyframes pulse {
+        0%, 100% { stroke-opacity: 0.25; }
+        50% { stroke-opacity: 0.55; }
+      }
+    </style>
+  </defs>
+
   <rect x="0.5" y="0.5" width="419" height="179" rx="10" ry="10" fill="#1a1b27" stroke="#44475a" />
 
-  <text x="24" y="24" fill="#f8f8f2" font-family="monospace" font-size="13" font-weight="700">Current Language Mix</text>
-  <text x="24" y="40" fill="#a8b3cf" font-family="monospace" font-size="10">Based on active work: InternalSystem + ENIAC-AI-DRIVEN</text>
+  <text x="24" y="24" fill="#f8f8f2" font-family="monospace" font-size="13" font-weight="700" class="fade-in">Current Language Mix</text>
+  <text x="24" y="40" fill="#a8b3cf" font-family="monospace" font-size="10" class="fade-in">Based on active work: InternalSystem + ENIAC-AI-DRIVEN</text>
 
-  <g transform="translate(96,98)">
+  <g transform="translate(96,98)" class="fade-in">
     <circle r="44" fill="none" stroke="#2a2d3f" stroke-width="16" />
 
     <g transform="rotate(-90)">
-      <circle r="44" fill="none" stroke="#777BB4" stroke-width="16" stroke-linecap="butt" stroke-dasharray="94.06 276.46" stroke-dashoffset="0" />
-      <circle r="44" fill="none" stroke="#F7DF1E" stroke-width="16" stroke-linecap="butt" stroke-dasharray="82.94 276.46" stroke-dashoffset="-94.06" />
-      <circle r="44" fill="none" stroke="#3776AB" stroke-width="16" stroke-linecap="butt" stroke-dasharray="55.29 276.46" stroke-dashoffset="-177.00" />
-      <circle r="44" fill="none" stroke="#E34F26" stroke-width="16" stroke-linecap="butt" stroke-dasharray="27.65 276.46" stroke-dashoffset="-232.29" />
-      <circle r="44" fill="none" stroke="#00B4D8" stroke-width="16" stroke-linecap="butt" stroke-dasharray="16.59 276.46" stroke-dashoffset="-259.94" />
+      <circle r="44" fill="none" stroke="#777BB4" stroke-width="16" stroke-linecap="butt" stroke-dasharray="94.06 276.46" stroke-dashoffset="0">
+        <animate attributeName="stroke-dasharray" from="0 276.46" to="94.06 276.46" dur="900ms" fill="freeze" />
+      </circle>
+      <circle r="44" fill="none" stroke="#F7DF1E" stroke-width="16" stroke-linecap="butt" stroke-dasharray="82.94 276.46" stroke-dashoffset="-94.06">
+        <animate attributeName="stroke-dasharray" from="0 276.46" to="82.94 276.46" begin="120ms" dur="900ms" fill="freeze" />
+      </circle>
+      <circle r="44" fill="none" stroke="#3776AB" stroke-width="16" stroke-linecap="butt" stroke-dasharray="55.29 276.46" stroke-dashoffset="-177.00">
+        <animate attributeName="stroke-dasharray" from="0 276.46" to="55.29 276.46" begin="240ms" dur="900ms" fill="freeze" />
+      </circle>
+      <circle r="44" fill="none" stroke="#E34F26" stroke-width="16" stroke-linecap="butt" stroke-dasharray="27.65 276.46" stroke-dashoffset="-232.29">
+        <animate attributeName="stroke-dasharray" from="0 276.46" to="27.65 276.46" begin="360ms" dur="900ms" fill="freeze" />
+      </circle>
+      <circle r="44" fill="none" stroke="#00B4D8" stroke-width="16" stroke-linecap="butt" stroke-dasharray="16.59 276.46" stroke-dashoffset="-259.94">
+        <animate attributeName="stroke-dasharray" from="0 276.46" to="16.59 276.46" begin="480ms" dur="900ms" fill="freeze" />
+      </circle>
     </g>
 
-    <circle r="25" fill="#1a1b27" stroke="#8be9fd" stroke-opacity="0.35" stroke-width="1.4" />
+    <circle r="25" fill="#1a1b27" stroke="#8be9fd" stroke-opacity="0.35" stroke-width="1.4" class="pulse" />
     <text x="0" y="-2" text-anchor="middle" fill="#a8b3cf" font-family="monospace" font-size="10">Lang</text>
     <text x="0" y="13" text-anchor="middle" fill="#f8f8f2" font-family="monospace" font-size="13" font-weight="700">2026</text>
   </g>
 
-  <g transform="translate(235,46)" fill="#f8f8f2" font-family="monospace" font-size="12">
+  <g transform="translate(235,46)" fill="#f8f8f2" font-family="monospace" font-size="12" class="fade-in">
     <g transform="translate(0,0)">
       <circle cx="7" cy="7" r="6" fill="#777BB4" />
       <text x="22" y="11">PHP <tspan fill="#777BB4" font-weight="700">34%</tspan></text>
