@@ -67,17 +67,6 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 ---
 
-## Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joao-Aschenbrenner/Joao-Aschenbrenner/output/github-contribution-grid-snake-dark.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/Joao-Aschenbrenner/Joao-Aschenbrenner/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## About
 
 - Formado em Analise e Desenvolvimento de Sistemas (2022).
