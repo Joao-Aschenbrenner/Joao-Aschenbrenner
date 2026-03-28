@@ -2,7 +2,7 @@ name: Generate Contribution Snake
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 permissions:
@@ -13,12 +13,17 @@ jobs:
     name: Update contribution snake assets
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
       # Snake Animation
       - uses: Platane/snk@v3
         id: snake-gif
         with:
           github_user_name: Joao-Aschenbrenner
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - uses: peaceiris/actions-gh-pages@v3
         with:
