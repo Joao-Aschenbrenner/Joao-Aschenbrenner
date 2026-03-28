@@ -1,6 +1,0 @@
-[approval]
-policy = "auto-edit"
-
-[sandbox]
-allow_commands = ["git status"]
-deny_commands = ["git push"]
