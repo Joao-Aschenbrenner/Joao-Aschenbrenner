@@ -4,38 +4,42 @@
   <text x="24" y="24" fill="#f8f8f2" font-family="monospace" font-size="13" font-weight="700">Current Language Mix</text>
   <text x="24" y="40" fill="#a8b3cf" font-family="monospace" font-size="10">Based on active work: InternalSystem + ENIAC-AI-DRIVEN</text>
 
-  <g transform="translate(0, 6)">
-    <path d="M95,90 L95,28 A62,62 0 0,1 147.38,123.16 Z" fill="#777BB4" stroke="#1a1b27" stroke-width="1.2"/>
-    <path d="M95,90 L147.38,123.16 A62,62 0 0,1 47.14,129.76 Z" fill="#F7DF1E" stroke="#1a1b27" stroke-width="1.2"/>
-    <path d="M95,90 L47.14,129.76 A62,62 0 0,1 42.56,57.03 Z" fill="#3776AB" stroke="#1a1b27" stroke-width="1.2"/>
-    <path d="M95,90 L42.56,57.03 A62,62 0 0,1 72.18,32.53 Z" fill="#E34F26" stroke="#1a1b27" stroke-width="1.2"/>
-    <path d="M95,90 L72.18,32.53 A62,62 0 0,1 95,28 Z" fill="#00B4D8" stroke="#1a1b27" stroke-width="1.2"/>
+  <g transform="translate(96,98)">
+    <circle r="44" fill="none" stroke="#2a2d3f" stroke-width="16" />
 
-    <circle cx="95" cy="90" r="25" fill="#1a1b27" stroke="#8be9fd" stroke-opacity="0.4" stroke-width="1.5"/>
-    <text x="95" y="86" text-anchor="middle" fill="#a8b3cf" font-family="monospace" font-size="10">Lang</text>
-    <text x="95" y="101" text-anchor="middle" fill="#f8f8f2" font-family="monospace" font-size="13" font-weight="700">2026</text>
+    <g transform="rotate(-90)">
+      <circle r="44" fill="none" stroke="#777BB4" stroke-width="16" stroke-linecap="butt" stroke-dasharray="94.06 276.46" stroke-dashoffset="0" />
+      <circle r="44" fill="none" stroke="#F7DF1E" stroke-width="16" stroke-linecap="butt" stroke-dasharray="82.94 276.46" stroke-dashoffset="-94.06" />
+      <circle r="44" fill="none" stroke="#3776AB" stroke-width="16" stroke-linecap="butt" stroke-dasharray="55.29 276.46" stroke-dashoffset="-177.00" />
+      <circle r="44" fill="none" stroke="#E34F26" stroke-width="16" stroke-linecap="butt" stroke-dasharray="27.65 276.46" stroke-dashoffset="-232.29" />
+      <circle r="44" fill="none" stroke="#00B4D8" stroke-width="16" stroke-linecap="butt" stroke-dasharray="16.59 276.46" stroke-dashoffset="-259.94" />
+    </g>
 
-    <g transform="translate(205, 40)" fill="#f8f8f2" font-family="monospace" font-size="12">
-      <g transform="translate(0,0)">
-        <circle cx="7" cy="7" r="6" fill="#777BB4"/>
-        <text x="22" y="11">PHP <tspan fill="#777BB4" font-weight="700">34%</tspan></text>
-      </g>
-      <g transform="translate(0,24)">
-        <circle cx="7" cy="7" r="6" fill="#F7DF1E"/>
-        <text x="22" y="11">JavaScript <tspan fill="#F7DF1E" font-weight="700">30%</tspan></text>
-      </g>
-      <g transform="translate(0,48)">
-        <circle cx="7" cy="7" r="6" fill="#3776AB"/>
-        <text x="22" y="11">Python <tspan fill="#3776AB" font-weight="700">20%</tspan></text>
-      </g>
-      <g transform="translate(0,72)">
-        <circle cx="7" cy="7" r="6" fill="#E34F26"/>
-        <text x="22" y="11">HTML/CSS <tspan fill="#E34F26" font-weight="700">10%</tspan></text>
-      </g>
-      <g transform="translate(0,96)">
-        <circle cx="7" cy="7" r="6" fill="#00B4D8"/>
-        <text x="22" y="11">SQL <tspan fill="#00B4D8" font-weight="700">6%</tspan></text>
-      </g>
+    <circle r="25" fill="#1a1b27" stroke="#8be9fd" stroke-opacity="0.35" stroke-width="1.4" />
+    <text x="0" y="-2" text-anchor="middle" fill="#a8b3cf" font-family="monospace" font-size="10">Lang</text>
+    <text x="0" y="13" text-anchor="middle" fill="#f8f8f2" font-family="monospace" font-size="13" font-weight="700">2026</text>
+  </g>
+
+  <g transform="translate(235,46)" fill="#f8f8f2" font-family="monospace" font-size="12">
+    <g transform="translate(0,0)">
+      <circle cx="7" cy="7" r="6" fill="#777BB4" />
+      <text x="22" y="11">PHP <tspan fill="#777BB4" font-weight="700">34%</tspan></text>
+    </g>
+    <g transform="translate(0,24)">
+      <circle cx="7" cy="7" r="6" fill="#F7DF1E" />
+      <text x="22" y="11">JavaScript <tspan fill="#F7DF1E" font-weight="700">30%</tspan></text>
+    </g>
+    <g transform="translate(0,48)">
+      <circle cx="7" cy="7" r="6" fill="#3776AB" />
+      <text x="22" y="11">Python <tspan fill="#3776AB" font-weight="700">20%</tspan></text>
+    </g>
+    <g transform="translate(0,72)">
+      <circle cx="7" cy="7" r="6" fill="#E34F26" />
+      <text x="22" y="11">HTML/CSS <tspan fill="#E34F26" font-weight="700">10%</tspan></text>
+    </g>
+    <g transform="translate(0,96)">
+      <circle cx="7" cy="7" r="6" fill="#00B4D8" />
+      <text x="22" y="11">SQL <tspan fill="#00B4D8" font-weight="700">6%</tspan></text>
     </g>
   </g>
 </svg>
