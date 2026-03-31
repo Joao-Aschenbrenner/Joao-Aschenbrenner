@@ -16,16 +16,6 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 ---
 
-## Featured Projects
-
-| Projeto | Problema resolvido | Stack | Status |
-|---|---|---|---|
-| [ENIAC-SENTINEL](https://github.com/Joao-Aschenbrenner/ENIAC-SENTINEL) | Auditoria e validacao de qualidade para codigo gerado por IA, com gates de entrega | Python, PySide6, CLI, Rules Engine | Ativo |
-| [InternalSystem](https://github.com/ENIACSystems/InternalSystem) | Sistema interno enterprise com foco em seguranca, governanca e operacao multi-modulo | PHP 8, MySQL, CI/CD, OWASP | Ativo |
-| [AudespV-TJSON](https://github.com/Joao-Aschenbrenner/AudespV-TJSON) | Geracao de JSON AUDESP v1.10 com validacao de schema e fluxo GUI/CLI | Python, OCR, PySide6 | Ativo |
-
----
-
 ## Quick Impact
 
 - 1,379+ contribuicoes no ultimo ano.
