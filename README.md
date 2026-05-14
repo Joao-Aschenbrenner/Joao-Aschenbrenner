@@ -68,7 +68,7 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 | [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Personal Finance SaaS | Laravel 10 + Blade + Alpine.js | Production |
 | [BlingStockSync](https://github.com/ENIACSystems/BlingStockSync) | Bling ERP Stock Sync | Laravel 10 + Blade + Alpine.js | Production |
 | [RABBIT](https://github.com/ENIACSystems/RABBIT) | File Management SaaS | Laravel 10 + Blade + Alpine.js | Production |
-| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Photo Proofing for Photographers | Laravel 10 + Blade + GD Library | Production |
+| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Photo Proofing for Photographers | Laravel 11 + Blade + Alpine.js + GD Library | Production |
 | [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Static Code Audit SaaS | Laravel 10 + 21 Auditors + LLM-free | In Dev |
 | [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | TCE-SP Compliance JSON Generator | Laravel 10 + Flutter + PHP Excel | Production |
 | [shared-lib](https://github.com/ENIACSystems/shared-lib) | SSO + Security + BR Validation | PHP 8.1+ Laravel Package | Active |
