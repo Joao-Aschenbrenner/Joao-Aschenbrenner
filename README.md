@@ -1,6 +1,6 @@
 # Joao Francisco Gomes Aschenbrenner
 
-**Backend Engineer | ERP Integrations, Compliance and Quality Systems | PHP - Laravel - Java**
+**Backend Engineer | ERP Integrations, Compliance and Quality Systems | PHP - Laravel - Java - Spring Boot**
 
 Desenvolvo sistemas para operacoes reais com foco em previsibilidade, seguranca e arquitetura limpa.
 
@@ -19,10 +19,11 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ## Quick Impact
 
 - 1,379+ contribuicoes no ultimo ano.
-- Experiencia operacional com ERP, NF-e, conciliacao bancaria e rotinas financeiras.
-- Controle diario de 40+ contas bancarias em ambiente de alta responsabilidade.
-- Estruturacao de projetos com foco em qualidade, seguranca e conformidade LGPD.
-- Integracoes com APIs de marketplace e ERP (Bling, AnyMarket, Mercado Livre, Magalu e Shopee).
+- 7 SaaS products in production at [eniacsystems.com.br](https://eniacsystems.com.br/).
+- 657 backend tests + 359 frontend tests (all green) on the AI orchestration platform.
+- Operational experience with ERP, NF-e, bank reconciliation and financial routines.
+- Daily control of 40+ bank accounts in high-responsibility environments.
+- API integrations with Bling, AnyMarket, Mercado Livre, Magalu and Shopee.
 
 ---
 
@@ -43,7 +44,7 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
     <tr>
       <td width="420" height="180" align="center" valign="middle">
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img width="420" height="180" src="https://github-readme-streak-stats-sigma.vercel.app/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
+          <img width="420" height="180" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
         </a>
       </td>
       <td width="420" height="180" align="center" valign="middle">
@@ -54,6 +55,24 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
     </tr>
   </table>
 </div>
+
+---
+
+## Projects
+
+| Project | Domain | Stack | Status |
+|---------|--------|-------|--------|
+| [ENIAC METRON](https://github.com/ENIACSystems/ENIAC_METRON) | AI Orchestration Platform | Java 21 + Spring Boot 3.5 + React 19 + Docker | Active |
+| [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | Hospital ERP | Laravel 10 + Blade + Alpine.js | Production |
+| [MecanicSystem](https://github.com/ENIACSystems/MecanicSystem) | Auto Repair Shop ERP | Laravel 10 + Blade + Alpine.js | Production |
+| [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Personal Finance SaaS | Laravel 10 + Blade + Alpine.js | Production |
+| [BlingStockSync](https://github.com/ENIACSystems/BlingStockSync) | Bling ERP Stock Sync | Laravel 10 + Blade + Alpine.js | Production |
+| [RABBIT](https://github.com/ENIACSystems/RABBIT) | File Management SaaS | Laravel 10 + Blade + Alpine.js | Production |
+| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Photo Proofing for Photographers | Laravel 10 + Blade + GD Library | Production |
+| [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Static Code Audit SaaS | Laravel 10 + 21 Auditors + LLM-free | In Dev |
+| [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | TCE-SP Compliance JSON Generator | Laravel 10 + Flutter + PHP Excel | Production |
+| [shared-lib](https://github.com/ENIACSystems/shared-lib) | SSO + Security + BR Validation | PHP 8.1+ Laravel Package | Active |
+| [internal-system-core](https://github.com/ENIACSystems/internal-system-core) | Multi-project SSO Hub | PHP Custom MVC + MySQL | Archived |
 
 ---
 
@@ -89,22 +108,27 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ---
 
 ## Expertise
 
-- Integracoes API REST para ERP e marketplaces.
+- Integracoes API REST para ERP e marketplaces (Bling, AnyMarket, Mercado Livre).
 - Arquitetura de sistemas e documentacao tecnica.
-- Seguranca de aplicacoes e conformidade LGPD.
-- CI/CD e automacao de deploy.
-- Evolucao ativa em Java e Spring.
+- Seguranca de aplicacoes: OWASP, SAST, PII masking, LGPD compliance.
+- CI/CD e automacao de deploy (GitHub Actions -> FTPS).
+- Multi-tenant SaaS architecture with shared SSO.
+- AI orchestration: 37 agents, 12 providers, 22 containers.
+- TDD/Testing: Spock, JUnit5, Vitest, Playwright, Pitest 80%+.
+- Evolucao ativa em Java/Spring Boot e React/TypeScript.
 
 ---
 
