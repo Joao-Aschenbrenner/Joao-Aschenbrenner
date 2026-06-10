@@ -12,6 +12,7 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 - LinkedIn: [joao-aschenbrenner](https://www.linkedin.com/in/jo%C3%A3o-aschenbrenner-545a62207/)
 - GitHub: [Joao-Aschenbrenner](https://github.com/Joao-Aschenbrenner)
+- ENIAC Systems: [github.com/ENIACSystems](https://github.com/ENIACSystems)
 - Portfolio: [eniacsystems.com.br](https://eniacsystems.com.br/)
 
 ---
@@ -24,6 +25,7 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 - Operational experience with ERP, NF-e, bank reconciliation and financial routines.
 - Daily control of 40+ bank accounts in high-responsibility environments.
 - API integrations with Bling, AnyMarket, Mercado Livre, Magalu and Shopee.
+- AI-driven development workflow using METRON (37 agents) and OpenCode CLI.
 
 ---
 
@@ -37,9 +39,9 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
           <img width="420" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
         </a>
       </td>
-      <td width="420" height="180" align="center" valign="middle">
-        <img width="420" height="180" src="./langs-chart.svg" />
-      </td>
+        <td width="420" height="180" align="center" valign="middle">
+          <img width="420" height="180" src="https://raw.githubusercontent.com/Joao-Aschenbrenner/Joao-Aschenbrenner/main/langs-chart.svg" />
+        </td>
     </tr>
     <tr>
       <td width="420" height="180" align="center" valign="middle">
@@ -116,6 +118,8 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![METRON](https://img.shields.io/badge/METRON-AI-Orchestration-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-AI-Agent-4ECDC4?style=for-the-badge&logo=bot&logoColor=white)
 
 ---
 
@@ -126,7 +130,8 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 - Seguranca de aplicacoes: OWASP, SAST, PII masking, LGPD compliance.
 - CI/CD e automacao de deploy (GitHub Actions -> FTPS).
 - Multi-tenant SaaS architecture with shared SSO.
-- AI orchestration: 37 agents, 12 providers, 22 containers.
+- AI orchestration: METRON platform (37 agents, 12 providers, 22 containers).
+- Agentic workflows com OpenCode para automacao de tarefas de engenharia.
 - TDD/Testing: Spock, JUnit5, Vitest, Playwright, Pitest 80%+.
 - Evolucao ativa em Java/Spring Boot e React/TypeScript.
 
