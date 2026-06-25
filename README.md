@@ -64,19 +64,17 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 | Project | Domain | Stack | Status |
 |---------|--------|-------|--------|
-| [SkyMetron](https://github.com/ENIACSystems/ENIAC_METRON) | AI Operating System | Java 21 + Spring Boot 3 + Maven + Python FastAPI + Docker | Sprint 0 |
-| [AI Disec PDF](https://github.com/Joao-Aschenbrenner/ai-disec-pdf) | Separador Inteligente de PDF | Electron + React + Express + TypeScript + 8 providers IA | Production |
-| [FileENIAC](https://github.com/Joao-Aschenbrenner/eniac-workspace) | Workspace & Git Manager | Go + Tauri + React + TypeScript | In Dev |
-| [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | ERP Hospitalar | Laravel 10 + Blade + Alpine.js | Production |
-| [MecanicSystem](https://github.com/ENIACSystems/MecanicSystem) | ERP Automotivo | Laravel 10 + Blade + Alpine.js | Production |
-| [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Financas Pessoais | Laravel 10 + Blade + Alpine.js | Production |
-| [BlingStockSync](https://github.com/ENIACSystems/BlingStockSync) | Sincronizacao Bling | Laravel 10 + Blade + Alpine.js | Production |
-| [RABBIT](https://github.com/ENIACSystems/RABBIT) | Gestao de Arquivos | Laravel 10 + Blade + Alpine.js | Production |
-| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Proofing para Fotografos | Laravel 11 + Blade + Alpine.js + GD | Production |
-| [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Auditoria de Codigo | Laravel 10 + 30+ Auditores LLM-free | In Dev |
-| [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | Auditoria Publica TCE-SP | Laravel 10 + Flutter + PHP Excel | Production |
-| [shared-lib](https://github.com/ENIACSystems/shared-lib) | SSO + Seguranca + BR Validation | PHP 8.1+ Laravel Package | Active |
-| [internal-system-core](https://github.com/ENIACSystems/internal-system-core) | Multi-project SSO Hub | PHP Custom MVC + MySQL | Archived |
+| [SkyMetron](https://github.com/ENIACSystems/ENIAC_METRON) | AI Operating System | Java 21 + Spring Boot 3 + Maven + Python FastAPI + Docker | Em Desenvolvimento |
+| [AI Disec PDF](https://github.com/Joao-Aschenbrenner/ai-disec-pdf) | Separador Inteligente de PDF | Electron + React + Express + TypeScript + 8 providers IA | Em Desenvolvimento |
+| [FileENIAC](https://github.com/Joao-Aschenbrenner/eniac-workspace) | Workspace & Git Manager | Go + Tauri + React + TypeScript | Em Desenvolvimento |
+| [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | ERP Hospitalar | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
+| [MecanicSystem](https://github.com/ENIACSystems/MecanicSystem) | ERP Automotivo | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
+| [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Financas Pessoais | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
+| [BlingStockSync](https://github.com/ENIACSystems/BlingStockSync) | Sincronizacao Bling | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
+| [RABBIT](https://github.com/ENIACSystems/RABBIT) | Gestao de Arquivos | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
+| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Proofing para Fotografos | Laravel 11 + Blade + Alpine.js + GD | Em Desenvolvimento |
+| [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Auditoria de Codigo | Laravel 10 + 30+ Auditores LLM-free | Em Desenvolvimento |
+| [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | Auditoria Publica TCE-SP | Laravel 10 + Flutter + PHP Excel | Em Desenvolvimento |
 
 ---
 
