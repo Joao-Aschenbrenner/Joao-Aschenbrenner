@@ -1,15 +1,16 @@
 # Joao Francisco Gomes Aschenbrenner
 
-**Backend Engineer | ERP Integrations, Compliance and Quality Systems | PHP - Laravel - Java - Spring Boot**
+**AI-Driven Software Engineer | Building Code Validation & Quality Systems | Architecture — Backend — Automation | PHP — Laravel — Java**
 
 Desenvolvo sistemas para operacoes reais com foco em previsibilidade, seguranca e arquitetura limpa.
 
-EN: Backend engineer focused on ERP integrations, compliance workflows and quality-driven software delivery.
+EN: AI-Driven Software Engineer focused on backend architecture, code validation and quality-driven software delivery.
 
 ---
 
 ## Contact
 
+- Email: jf.aschenbrenner@gmail.com
 - LinkedIn: [joao-aschenbrenner](https://www.linkedin.com/in/jo%C3%A3o-aschenbrenner-545a62207/)
 - GitHub: [Joao-Aschenbrenner](https://github.com/Joao-Aschenbrenner)
 - ENIAC Systems: [github.com/ENIACSystems](https://github.com/ENIACSystems)
@@ -80,9 +81,10 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 ## About
 
-- Formado em Analise e Desenvolvimento de Sistemas (2022).
-- Pos-graduando em Ciencia de Dados e Inteligencia Artificial.
-- Criador da ENIAC Systems, com foco em engenharia de software orientada a qualidade.
+- Formado em Analise e Desenvolvimento de Sistemas — UniCesumar (2022).
+- Pos-graduado em Ciencia de Dados e Inteligencia Artificial — UNINTER (2024).
+- Tecnico em Contabilidade — UNINTER (2026).
+- Criador do ENIAC (Engineering, Networks, Intelligence, Architecture & Code), um laboratorio de AI-Driven Development com foco em previsibilidade, padronizacao e governanca de codigo.
 - Especialidade em backend, arquitetura de sistemas, integracoes ERP e automacao de processos.
 - Diferencial: experiencia tecnica combinada com contexto operacional real de areas fiscal e financeira.
 
@@ -90,9 +92,10 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 ## Professional Experience (Resumo)
 
-### [Santa Casa de Misericordia de Taquarituba](https://www.instagram.com/santacasadetaquarituba/) - Auxiliar de Escritorio II
-- Atuo no fluxo financeiro e fiscal com controle diario de 40+ contas bancarias e operacao de NF-e no ERP.
-- Suporte direto a rotinas criticas da administracao com foco em precisao operacional.
+### [Santa Casa de Misericordia de Taquarituba](https://www.instagram.com/santacasadetaquarituba/) - Assistente Administrativo
+- Responsavel pelo setor financeiro com controle diario de 40+ contas bancarias (CAIXA, BB, Bradesco, Sicredi).
+- Operacao de NF-e no ERP Pongeluppe, cadastro, baixa e liberacao de notas fiscais.
+- Responsavel exclusivo pelo controle de entrada e saida de notas fiscais da Administracao.
 
 ### [Rubi Comercio Eletronico](https://www.instagram.com/rubipresentes/) - Programador de Sistemas de Informacao
 - Desenvolvi e mantive rotinas de sistemas e e-commerce com foco em fluxo fiscal e comercial.
@@ -101,6 +104,10 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ### [MGF Automacao Comercial](https://www.mgfautomacao.com.br/) - Suporte e Marketing Digital
 - Reestruturei presenca digital e sustentei infraestrutura de automacao comercial e banco de dados.
 - Realizei operacoes tecnicas em campo, backups e manutencao de sistemas.
+
+### Equipe Informatica - E-commerce e Marketing Digital
+- Integracoes e processo operacional com ERP CPLUS-5, Loja Integrada, AnyMarket e marketplaces (Mercado Livre, Magalu, Shopee).
+- Organizacao de banners, menus e cadastramento de produtos.
 
 ---
 
@@ -114,6 +121,8 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -140,6 +149,13 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 ## Education
 
-- Tecnologo em Analise e Desenvolvimento de Sistemas - UNICESUMAR.
-- Pos-Graduacao em Ciencia de Dados e Inteligencia Artificial - UNINTER.
-- Tecnico em Contabilidade - UNINTER.
+- Tecnologo em Analise e Desenvolvimento de Sistemas — UniCesumar (2020-2022).
+- Pos-Graduacao em Ciencia de Dados e Inteligencia Artificial — UNINTER (2024).
+- Tecnico em Contabilidade — UNINTER (2025-2026).
+
+## Certifications
+
+- SQL Server: Introducao ao SQL com Microsoft SQL Server 2017
+- Git e GitHub
+- HTML5 e CSS3
+- Java OO: entendendo a Orientacao a Objetos
