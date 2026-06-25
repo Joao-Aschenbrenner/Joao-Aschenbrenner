@@ -20,12 +20,12 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ## Quick Impact
 
 - 1,379+ contribuicoes no ultimo ano.
-- 7 SaaS products in production at [eniacsystems.com.br](https://eniacsystems.com.br/).
+- 8 SaaS/B2B products in production at [eniacsystems.com.br](https://eniacsystems.com.br/).
 - 657 backend tests + 359 frontend tests (all green) on the AI orchestration platform.
 - Operational experience with ERP, NF-e, bank reconciliation and financial routines.
 - Daily control of 40+ bank accounts in high-responsibility environments.
 - API integrations with Bling, AnyMarket, Mercado Livre, Magalu and Shopee.
-- AI-driven development workflow using METRON (37 agents) and OpenCode CLI.
+- AI-driven development workflow using SkyMetron (modular monolith) and OpenCode CLI.
 
 ---
 
@@ -36,17 +36,17 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
     <tr>
       <td width="420" height="180" align="center" valign="middle">
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img width="420" height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
+          <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
         </a>
       </td>
         <td width="420" height="180" align="center" valign="middle">
-          <img width="420" height="180" src="https://raw.githubusercontent.com/Joao-Aschenbrenner/Joao-Aschenbrenner/main/langs-chart.svg" />
+          <img width="420" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&theme=dracula&hide_title=true" />
         </td>
     </tr>
     <tr>
       <td width="420" height="180" align="center" valign="middle">
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-          <img width="420" height="180" src="https://github-readme-streak-stats-sigma-five.vercel.app/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
+          <img width="420" height="180" src="https://streak-stats.demolab.com/?user=Joao-Aschenbrenner&theme=dracula" alt="GitHub Streak" />
         </a>
       </td>
       <td width="420" height="180" align="center" valign="middle">
@@ -64,16 +64,18 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 
 | Project | Domain | Stack | Status |
 |---------|--------|-------|--------|
-| [ENIAC METRON](https://github.com/ENIACSystems/ENIAC_METRON) | AI Orchestration Platform | Java 21 + Spring Boot 3.5 + React 19 + Docker | Active |
-| [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | Hospital ERP | Laravel 10 + Blade + Alpine.js | Production |
-| [MecanicSystem](https://github.com/ENIACSystems/MecanicSystem) | Auto Repair Shop ERP | Laravel 10 + Blade + Alpine.js | Production |
-| [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Personal Finance SaaS | Laravel 10 + Blade + Alpine.js | Production |
-| [BlingStockSync](https://github.com/ENIACSystems/BlingStockSync) | Bling ERP Stock Sync | Laravel 10 + Blade + Alpine.js | Production |
-| [RABBIT](https://github.com/ENIACSystems/RABBIT) | File Management SaaS | Laravel 10 + Blade + Alpine.js | Production |
-| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Photo Proofing for Photographers | Laravel 11 + Blade + Alpine.js + GD Library | Production |
-| [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Static Code Audit SaaS | Laravel 10 + 21 Auditors + LLM-free | In Dev |
-| [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | TCE-SP Compliance JSON Generator | Laravel 10 + Flutter + PHP Excel | Production |
-| [shared-lib](https://github.com/ENIACSystems/shared-lib) | SSO + Security + BR Validation | PHP 8.1+ Laravel Package | Active |
+| [SkyMetron](https://github.com/ENIACSystems/ENIAC_METRON) | AI Operating System | Java 21 + Spring Boot 3 + Maven + Python FastAPI + Docker | Sprint 0 |
+| [AI Disec PDF](https://github.com/Joao-Aschenbrenner/ai-disec-pdf) | Separador Inteligente de PDF | Electron + React + Express + TypeScript + 8 providers IA | Production |
+| [FileENIAC](https://github.com/Joao-Aschenbrenner/eniac-workspace) | Workspace & Git Manager | Go + Tauri + React + TypeScript | In Dev |
+| [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | ERP Hospitalar | Laravel 10 + Blade + Alpine.js | Production |
+| [MecanicSystem](https://github.com/ENIACSystems/MecanicSystem) | ERP Automotivo | Laravel 10 + Blade + Alpine.js | Production |
+| [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Financas Pessoais | Laravel 10 + Blade + Alpine.js | Production |
+| [BlingStockSync](https://github.com/ENIACSystems/BlingStockSync) | Sincronizacao Bling | Laravel 10 + Blade + Alpine.js | Production |
+| [RABBIT](https://github.com/ENIACSystems/RABBIT) | Gestao de Arquivos | Laravel 10 + Blade + Alpine.js | Production |
+| [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Proofing para Fotografos | Laravel 11 + Blade + Alpine.js + GD | Production |
+| [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Auditoria de Codigo | Laravel 10 + 30+ Auditores LLM-free | In Dev |
+| [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | Auditoria Publica TCE-SP | Laravel 10 + Flutter + PHP Excel | Production |
+| [shared-lib](https://github.com/ENIACSystems/shared-lib) | SSO + Seguranca + BR Validation | PHP 8.1+ Laravel Package | Active |
 | [internal-system-core](https://github.com/ENIACSystems/internal-system-core) | Multi-project SSO Hub | PHP Custom MVC + MySQL | Archived |
 
 ---
@@ -118,7 +120,8 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 ![REST API](https://img.shields.io/badge/REST_API-0A0A0A?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![METRON](https://img.shields.io/badge/METRON-AI-Orchestration-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![SkyMetron](https://img.shields.io/badge/SkyMetron-AI-OS-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)
 ![OpenCode](https://img.shields.io/badge/OpenCode-AI-Agent-4ECDC4?style=for-the-badge&logo=bot&logoColor=white)
 
 ---
@@ -130,7 +133,7 @@ EN: Backend engineer focused on ERP integrations, compliance workflows and quali
 - Seguranca de aplicacoes: OWASP, SAST, PII masking, LGPD compliance.
 - CI/CD e automacao de deploy (GitHub Actions -> FTPS).
 - Multi-tenant SaaS architecture with shared SSO.
-- AI orchestration: METRON platform (37 agents, 12 providers, 22 containers).
+- AI orchestration: SkyMetron (Java 21 + Spring Boot 3 + pgvector + Ollama).
 - Agentic workflows com OpenCode para automacao de tarefas de engenharia.
 - TDD/Testing: Spock, JUnit5, Vitest, Playwright, Pitest 80%+.
 - Evolucao ativa em Java/Spring Boot e React/TypeScript.
