@@ -105,7 +105,7 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
 - Reestruturei presenca digital e sustentei infraestrutura de automacao comercial e banco de dados.
 - Realizei operacoes tecnicas em campo, backups e manutencao de sistemas.
 
-### Equipe Informatica - E-commerce e Marketing Digital
+### [Equipe Informatica](https://www.equipeclub.com.br/) - E-commerce e Marketing Digital
 - Integracoes e processo operacional com ERP CPLUS-5, Loja Integrada, AnyMarket e marketplaces (Mercado Livre, Magalu, Shopee).
 - Organizacao de banners, menus e cadastramento de produtos.
 
