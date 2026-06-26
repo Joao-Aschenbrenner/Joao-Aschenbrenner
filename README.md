@@ -128,8 +128,8 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![SkyMetron](https://img.shields.io/badge/SkyMetron-AI-OS-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)
-![OpenCode](https://img.shields.io/badge/OpenCode-AI-Agent-4ECDC4?style=for-the-badge&logo=bot&logoColor=white)
+![SkyMetron](https://img.shields.io/badge/SkyMetron-AI_OS-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-Agent-4ECDC4?style=for-the-badge&logo=windowsterminal&logoColor=white)
 
 ---
 
