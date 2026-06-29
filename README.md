@@ -65,9 +65,8 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
 
 | Project | Domain | Stack | Status |
 |---------|--------|-------|--------|
-| [SkyMetron](https://github.com/ENIACSystems/ENIAC_METRON) | AI Operating System | Java 21 + Spring Boot 3 + Maven + Python FastAPI + Docker | Em Desenvolvimento |
 | [AI Disec PDF](https://github.com/Joao-Aschenbrenner/ai-disec-pdf) | Separador Inteligente de PDF | Electron + React + Express + TypeScript + 8 providers IA | Em Producao |
-| [FileENIAC](https://github.com/Joao-Aschenbrenner/eniac-workspace) | Workspace & Git Manager | Go + Tauri + React + TypeScript | Em Desenvolvimento |
+| [FileENIAC](https://github.com/Joao-Aschenbrenner/FileENIAC) | Workspace & Git Manager | Go + Tauri + React + TypeScript | Em Desenvolvimento |
 | [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | ERP Hospitalar | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
 | [MecanicSystem](https://github.com/ENIACSystems/MecanicSystem) | ERP Automotivo | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
 | [SimpleFinance](https://github.com/ENIACSystems/SimpleFinance) | Financas Pessoais | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
