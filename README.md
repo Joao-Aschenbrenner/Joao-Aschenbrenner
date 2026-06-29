@@ -41,7 +41,7 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
         </a>
       </td>
         <td width="420" height="180" align="center" valign="middle">
-          <img width="420" height="180" src="https://github-readme-stats-eight-ecru.vercel.app/api/top-langs?username=Joao-Aschenbrenner&layout=compact&theme=dracula&hide_title=true" />
+          <img width="420" height="180" src="assets/portfolio-langs.svg" />
         </td>
     </tr>
     <tr>
