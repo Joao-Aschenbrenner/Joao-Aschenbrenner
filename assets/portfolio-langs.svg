@@ -1,118 +1,84 @@
-<svg width="420" height="230" viewBox="0 0 420 230" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="descId">
-  <title id="titleId">Linguagens do Portfolio</title>
+<svg width="420" height="180" viewBox="0 0 420 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="titleId descId">
+  <title id="titleId">Linguagens Reais do Portfolio</title>
   <desc id="descId">PHP/Laravel 49%, Python 17%, JavaScript/TypeScript 15%, HTML/CSS 5%, C# 4%, Java 4%, Go 3%, Outros 3%</desc>
+
   <defs>
-    <linearGradient id="barGrad" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.15"/>
-      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
-    </linearGradient>
-    <linearGradient id="php" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#777BB4"/>
-      <stop offset="100%" stop-color="#5A5E8F"/>
-    </linearGradient>
-    <linearGradient id="py" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3572A5"/>
-      <stop offset="100%" stop-color="#2A5A80"/>
-    </linearGradient>
-    <linearGradient id="ts" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#3178C6"/>
-      <stop offset="100%" stop-color="#245A96"/>
-    </linearGradient>
-    <linearGradient id="html" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#E34C26"/>
-      <stop offset="100%" stop-color="#B83D1E"/>
-    </linearGradient>
-    <linearGradient id="cs" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#178600"/>
-      <stop offset="100%" stop-color="#0F5E00"/>
-    </linearGradient>
-    <linearGradient id="java" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#B07219"/>
-      <stop offset="100%" stop-color="#8A5A12"/>
-    </linearGradient>
-    <linearGradient id="go" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00ADD8"/>
-      <stop offset="100%" stop-color="#0085A8"/>
-    </linearGradient>
-    <linearGradient id="outros" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#8B8B8B"/>
-      <stop offset="100%" stop-color="#6B6B6B"/>
-    </linearGradient>
-    <filter id="shadow">
-      <feDropShadow dx="0" dy="1" stdDeviation="2" flood-color="#000" flood-opacity="0.3"/>
+    <radialGradient id="cardBg" cx="25%" cy="12%" r="95%">
+      <stop offset="0%" stop-color="#3B3D53"/>
+      <stop offset="55%" stop-color="#282A36"/>
+      <stop offset="100%" stop-color="#1D1E28"/>
+    </radialGradient>
+    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
   </defs>
 
   <style>
-    .bg { fill: #282A36; }
-    .border { stroke: #E4E2E2; stroke-width: 1; fill: none; }
-    .title { font: 600 14px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
-    .lang-name { font: 500 11px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
-    .lang-pct { font: 700 11px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
-    .bar-bg { fill: #1E1F29; }
-    .bar-overlay { fill: url(#barGrad); }
+    .border { stroke: #E4E2E2; stroke-width: 1; fill: none; opacity: 0.85; }
+    .title { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
+    .subtitle { font: 500 9px 'Segoe UI', Ubuntu, sans-serif; fill: #BFC2D6; letter-spacing: .2px; }
+    .center-main { font: 800 21px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
+    .center-sub { font: 700 8px 'Segoe UI', Ubuntu, sans-serif; fill: #C9CBFF; letter-spacing: .4px; }
+    .lang { font: 600 10.5px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
+    .pct { font: 800 10.5px 'Segoe UI', Ubuntu, sans-serif; fill: #F8F8F2; }
+    .chip { fill: rgba(255,255,255,.05); stroke: rgba(255,255,255,.08); }
+    .ring-bg { fill: none; stroke: #171821; stroke-width: 15; opacity: .9; }
+    .segment { fill: none; stroke-width: 15; stroke-linecap: round; filter: url(#softGlow); }
+    .seg-php { animation: drawPhp .75s cubic-bezier(.2,.7,.2,1) forwards; }
+    .seg-py { animation: drawPy .65s cubic-bezier(.2,.7,.2,1) .18s forwards; }
+    .seg-ts { animation: drawTs .65s cubic-bezier(.2,.7,.2,1) .32s forwards; }
+    .seg-html { animation: drawHtml .55s cubic-bezier(.2,.7,.2,1) .46s forwards; }
+    .seg-cs { animation: drawCs .55s cubic-bezier(.2,.7,.2,1) .58s forwards; }
+    .seg-java { animation: drawJava .55s cubic-bezier(.2,.7,.2,1) .70s forwards; }
+    .seg-go { animation: drawGo .55s cubic-bezier(.2,.7,.2,1) .82s forwards; }
+    .seg-other { animation: drawOther .55s cubic-bezier(.2,.7,.2,1) .94s forwards; }
+    .row { opacity: 0; animation: fadeRow .45s ease forwards; }
+    .r1 { animation-delay: .15s; } .r2 { animation-delay: .25s; } .r3 { animation-delay: .35s; } .r4 { animation-delay: .45s; }
+    .r5 { animation-delay: .55s; } .r6 { animation-delay: .65s; } .r7 { animation-delay: .75s; } .r8 { animation-delay: .85s; }
+    .pulse { animation: pulse 2.4s ease-in-out infinite; transform-origin: 91px 96px; }
+    @keyframes drawPhp { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 49 51; } }
+    @keyframes drawPy { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 17 83; } }
+    @keyframes drawTs { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 15 85; } }
+    @keyframes drawHtml { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 5 95; } }
+    @keyframes drawCs { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 4 96; } }
+    @keyframes drawJava { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 4 96; } }
+    @keyframes drawGo { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 3 97; } }
+    @keyframes drawOther { from { stroke-dasharray: 0 100; } to { stroke-dasharray: 3 97; } }
+    @keyframes fadeRow { from { opacity: 0; transform: translateX(7px); } to { opacity: 1; transform: translateX(0); } }
+    @keyframes pulse { 0%, 100% { opacity: .35; transform: scale(1); } 50% { opacity: .75; transform: scale(1.05); } }
   </style>
 
-  <rect class="bg" width="420" height="230" rx="6"/>
-  <rect class="border" x="0.5" y="0.5" width="419" height="229" rx="6"/>
-  <rect class="border" x="18" y="42" width="384" height="1" opacity="0.1"/>
+  <rect width="420" height="180" rx="8" fill="url(#cardBg)"/>
+  <rect class="border" x="0.5" y="0.5" width="419" height="179" rx="8"/>
+  <text x="18" y="24" class="title">Linguagens Reais</text>
+  <text x="18" y="38" class="subtitle">publicos + privados: Joao, ENIACSystems, SkyMetron</text>
 
-  <text x="20" y="28" class="title" filter="url(#shadow)">Linguagens do Portfolio</text>
+  <circle class="pulse" cx="91" cy="97" r="59" fill="none" stroke="#BD93F9" stroke-width="1" stroke-dasharray="3 7"/>
+  <circle class="ring-bg" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)"/>
+  <circle class="segment seg-php" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#777BB4" stroke-dashoffset="0"/>
+  <circle class="segment seg-py" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#3572A5" stroke-dashoffset="-49"/>
+  <circle class="segment seg-ts" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#3178C6" stroke-dashoffset="-66"/>
+  <circle class="segment seg-html" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#E34C26" stroke-dashoffset="-81"/>
+  <circle class="segment seg-cs" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#178600" stroke-dashoffset="-86"/>
+  <circle class="segment seg-java" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#B07219" stroke-dashoffset="-90"/>
+  <circle class="segment seg-go" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#00ADD8" stroke-dashoffset="-94"/>
+  <circle class="segment seg-other" cx="91" cy="97" r="45" pathLength="100" transform="rotate(-90 91 97)" stroke="#8B8B8B" stroke-dashoffset="-97"/>
+  <circle cx="91" cy="97" r="31" fill="#242633" stroke="rgba(255,255,255,.08)"/>
+  <text x="91" y="95" class="center-main" text-anchor="middle">49%</text>
+  <text x="91" y="109" class="center-sub" text-anchor="middle">PHP + BLADE</text>
 
-  <!-- PHP/Laravel 49%: 380*0.49 = 186px -->
-  <text x="22" y="62" class="lang-name">PHP (Laravel)</text>
-  <text x="398" y="62" class="lang-pct" text-anchor="end">49%</text>
-  <rect class="bar-bg" x="22" y="70" width="380" height="10" rx="5"/>
-  <rect fill="url(#php)" x="22" y="70" width="186" height="10" rx="5"/>
-  <rect class="bar-overlay" x="22" y="70" width="186" height="10" rx="5"/>
-
-  <!-- Python 17%: 380*0.17 = 65px -->
-  <text x="22" y="96" class="lang-name">Python</text>
-  <text x="398" y="96" class="lang-pct" text-anchor="end">17%</text>
-  <rect class="bar-bg" x="22" y="104" width="380" height="10" rx="5"/>
-  <rect fill="url(#py)" x="22" y="104" width="65" height="10" rx="5"/>
-  <rect class="bar-overlay" x="22" y="104" width="65" height="10" rx="5"/>
-
-  <!-- JavaScript/TypeScript 15%: 380*0.15 = 57px -->
-  <text x="22" y="130" class="lang-name">JavaScript / TypeScript</text>
-  <text x="398" y="130" class="lang-pct" text-anchor="end">15%</text>
-  <rect class="bar-bg" x="22" y="138" width="380" height="10" rx="5"/>
-  <rect fill="url(#ts)" x="22" y="138" width="57" height="10" rx="5"/>
-  <rect class="bar-overlay" x="22" y="138" width="57" height="10" rx="5"/>
-
-  <!-- HTML/CSS 5%: 380*0.05 = 19px -->
-  <text x="22" y="164" class="lang-name">HTML / CSS</text>
-  <text x="398" y="164" class="lang-pct" text-anchor="end">5%</text>
-  <rect class="bar-bg" x="22" y="172" width="380" height="10" rx="5"/>
-  <rect fill="url(#html)" x="22" y="172" width="19" height="10" rx="5"/>
-  <rect class="bar-overlay" x="22" y="172" width="19" height="10" rx="5"/>
-
-  <!-- C# 4%: 380*0.04 = 15px -->
-  <text x="22" y="198" class="lang-name">C#</text>
-  <text x="398" y="198" class="lang-pct" text-anchor="end">4%</text>
-  <rect class="bar-bg" x="22" y="206" width="380" height="10" rx="5"/>
-  <rect fill="url(#cs)" x="22" y="206" width="15" height="10" rx="5"/>
-  <rect class="bar-overlay" x="22" y="206" width="15" height="10" rx="5"/>
-
-  <!-- Java 4%: 19px -->
-  <text x="222" y="62" class="lang-name">Java (Spring)</text>
-  <text x="398" y="62" class="lang-pct" text-anchor="end">4%</text>
-  <rect class="bar-bg" x="222" y="70" width="180" height="10" rx="5"/>
-  <rect fill="url(#java)" x="222" y="70" width="15" height="10" rx="5"/>
-  <rect class="bar-overlay" x="222" y="70" width="15" height="10" rx="5"/>
-
-  <!-- Go 3%: 12px -->
-  <text x="222" y="96" class="lang-name">Go</text>
-  <text x="398" y="96" class="lang-pct" text-anchor="end">3%</text>
-  <rect class="bar-bg" x="222" y="104" width="180" height="10" rx="5"/>
-  <rect fill="url(#go)" x="222" y="104" width="12" height="10" rx="5"/>
-  <rect class="bar-overlay" x="222" y="104" width="12" height="10" rx="5"/>
-
-  <!-- Outros 3%: 12px -->
-  <text x="222" y="130" class="lang-name">Outros (Dart, SQL, Shell)</text>
-  <text x="398" y="130" class="lang-pct" text-anchor="end">3%</text>
-  <rect class="bar-bg" x="222" y="138" width="180" height="10" rx="5"/>
-  <rect fill="url(#outros)" x="222" y="138" width="12" height="10" rx="5"/>
-  <rect class="bar-overlay" x="222" y="138" width="12" height="10" rx="5"/>
-
+  <g transform="translate(168 48)">
+    <g class="row r1"><rect class="chip" x="0" y="-10" width="224" height="15" rx="7"/><circle cx="8" cy="-2.5" r="4" fill="#777BB4"/><text x="18" y="1" class="lang">PHP / Laravel</text><text x="216" y="1" class="pct" text-anchor="end">49%</text></g>
+    <g class="row r2"><rect class="chip" x="0" y="8" width="224" height="15" rx="7"/><circle cx="8" cy="15.5" r="4" fill="#3572A5"/><text x="18" y="19" class="lang">Python</text><text x="216" y="19" class="pct" text-anchor="end">17%</text></g>
+    <g class="row r3"><rect class="chip" x="0" y="26" width="224" height="15" rx="7"/><circle cx="8" cy="33.5" r="4" fill="#3178C6"/><text x="18" y="37" class="lang">JavaScript / TypeScript</text><text x="216" y="37" class="pct" text-anchor="end">15%</text></g>
+    <g class="row r4"><rect class="chip" x="0" y="44" width="224" height="15" rx="7"/><circle cx="8" cy="51.5" r="4" fill="#E34C26"/><text x="18" y="55" class="lang">HTML / CSS</text><text x="216" y="55" class="pct" text-anchor="end">5%</text></g>
+    <g class="row r5"><rect class="chip" x="0" y="62" width="224" height="15" rx="7"/><circle cx="8" cy="69.5" r="4" fill="#178600"/><text x="18" y="73" class="lang">C#</text><text x="216" y="73" class="pct" text-anchor="end">4%</text></g>
+    <g class="row r6"><rect class="chip" x="0" y="80" width="224" height="15" rx="7"/><circle cx="8" cy="87.5" r="4" fill="#B07219"/><text x="18" y="91" class="lang">Java / Spring</text><text x="216" y="91" class="pct" text-anchor="end">4%</text></g>
+    <g class="row r7"><rect class="chip" x="0" y="98" width="224" height="15" rx="7"/><circle cx="8" cy="105.5" r="4" fill="#00ADD8"/><text x="18" y="109" class="lang">Go</text><text x="216" y="109" class="pct" text-anchor="end">3%</text></g>
+    <g class="row r8"><rect class="chip" x="0" y="116" width="224" height="15" rx="7"/><circle cx="8" cy="123.5" r="4" fill="#8B8B8B"/><text x="18" y="127" class="lang">Outros</text><text x="216" y="127" class="pct" text-anchor="end">3%</text></g>
+  </g>
 </svg>
