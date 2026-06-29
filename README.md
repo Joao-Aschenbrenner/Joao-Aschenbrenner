@@ -65,7 +65,7 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
 
 | Project | Domain | Stack | Status |
 |---------|--------|-------|--------|
-| [SkyMetron](https://github.com/SkyMetron/skymetron) | AI Operating System | Java 21 + Spring Boot 3 + Maven + Python FastAPI + Docker | Em Desenvolvimento |
+| [SkyMetron](https://github.com/SkyMetron) | AI Operating System | Java 21 + Spring Boot 3 + Maven + Python FastAPI + Docker | Em Desenvolvimento |
 | [AI Disec PDF](https://github.com/Joao-Aschenbrenner/ai-disec-pdf) | Separador Inteligente de PDF | Electron + React + Express + TypeScript + 8 providers IA | Em Producao |
 | [FileENIAC](https://github.com/Joao-Aschenbrenner/FileENIAC) | Workspace & Git Manager | Go + Tauri + React + TypeScript | Em Desenvolvimento |
 | [SCHospitalManager](https://github.com/ENIACSystems/SCHospitalManager) | ERP Hospitalar | Laravel 10 + Blade + Alpine.js | Em Desenvolvimento |
@@ -76,6 +76,16 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
 | [SnapSelect](https://github.com/ENIACSystems/SnapSelect) | Proofing para Fotografos | Laravel 11 + Blade + Alpine.js + GD | Em Desenvolvimento |
 | [ENIAC-SENTINEL](https://github.com/ENIACSystems/ENIAC-SENTINEL) | Auditoria de Codigo | Laravel 10 + 30+ Auditores LLM-free | Em Desenvolvimento |
 | [AudespV-TJSON](https://github.com/ENIACSystems/AudespV-TJSON) | Auditoria Publica TCE-SP | Laravel 10 + Flutter + PHP Excel | Em Desenvolvimento |
+
+> **ENIAC Systems** — Engineering, Networks, Intelligence, Architecture & Code
+>
+> Laboratorio de AI-Driven Development focado em previsibilidade, padronizacao e governanca de codigo. Os repositorios da [ENIAC Systems](https://github.com/ENIACSystems) sao privados para proteger propriedade intelectual.
+>
+> **Especialidades:** Sistemas Web de Alta Performance (PHP, Node.js, AJAX) · Gestao e Automacao de Processos (ERP/CRM) · Seguranca e Armazenamento de Dados · Integracao de Ecossistemas (Bling, marketplaces)
+>
+> **Stack:** Laravel 11 · PHP 8.2 · Blade + Alpine.js · Tailwind CSS · MySQL 8.0 · GitHub Actions
+>
+> *Contato: adm@eniacsystems.com.br · [eniacsystems.com.br](https://eniacsystems.com.br)*
 
 ---
 
