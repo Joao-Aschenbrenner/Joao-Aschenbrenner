@@ -37,11 +37,11 @@ EN: AI-Driven Software Engineer focused on backend architecture, code validation
     <tr>
       <td width="420" height="180" align="center" valign="middle">
         <a href="https://github.com/Joao-Aschenbrenner">
-          <img width="420" height="180" src="https://github-readme-stats.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
+          <img width="420" height="180" src="https://github-readme-stats-eight-ecru.vercel.app/api?username=Joao-Aschenbrenner&show_icons=true&theme=dracula&count_private=true" />
         </a>
       </td>
         <td width="420" height="180" align="center" valign="middle">
-          <img width="420" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Aschenbrenner&layout=compact&theme=dracula&hide_title=true" />
+          <img width="420" height="180" src="https://github-readme-stats-eight-ecru.vercel.app/api/top-langs?username=Joao-Aschenbrenner&layout=compact&theme=dracula&hide_title=true" />
         </td>
     </tr>
     <tr>
